@@ -1,0 +1,76 @@
+{
+  "plan": {
+    "name": "",
+    "description": "",
+    "sport": "triathlon",
+    "total_weeks": 0,
+    "phases": [
+      {
+        "name": "Base",
+        "weeks": []
+      },
+      {
+        "name": "Build",
+        "weeks": []
+      },
+      {
+        "name": "Peak",
+        "weeks": []
+      },
+      {
+        "name": "Taper",
+        "weeks": []
+      }
+    ]
+  },
+  "schedule": [
+    {
+      "week": 1,
+      "days": {
+        "mon": {
+          "swim": null,
+          "bike": null,
+          "run": null
+        },
+        "tue": {
+          "swim": null,
+          "bike": null,
+          "run": null
+        },
+        "wed": {
+          "swim": null,
+          "bike": null,
+          "run": null
+        },
+        "thu": {
+          "swim": null,
+          "bike": null,
+          "run": null
+        },
+        "fri": {
+          "swim": null,
+          "bike": null,
+          "run": null
+        },
+        "sat": {
+          "swim": null,
+          "bike": null,
+          "run": null
+        },
+        "sun": {
+          "swim": null,
+          "bike": null,
+          "run": null
+        }
+      },
+      "weekly_volume": {
+        "swim_yards": null,
+        "bike_hours_minutes": null,
+        "run_hours_minutes": null,
+        "total_hours_minutes": null,
+        "intensity_low_pct": null,
+        "intensity_high_pct": null
+      }
+    }
+  ]
+}

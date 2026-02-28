@@ -1,0 +1,464 @@
+{
+  "plan": {
+    "name": "80/20 Triathlon — Ironman Distance Level 1",
+    "description": "Created for newbies with a goal of finishing their first Ironman and also for experienced athletes who need or prefer a lower-volume plan. Before you begin, you should be comfortably able to swim, cycle, and run for 60 minutes and complete at least 5 total hours of aerobic exercise over seven days. Weekly training volume starts at approximately 7.75 hours in Week 1 and peaks at approximately 14 hours in Week 20.",
+    "sport": "triathlon",
+    "total_weeks": 22,
+    "phases": [
+      {
+        "name": "General",
+        "weeks": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+      },
+      {
+        "name": "Race Specific",
+        "weeks": [13, 14, 15, 16, 17, 18, 19, 20]
+      },
+      {
+        "name": "Taper",
+        "weeks": [21, 22]
+      }
+    ]
+  },
+  "schedule": [
+    {
+      "week": 1,
+      "days": {
+        "mon": { "swim": null, "bike": null, "run": null },
+        "tue": { "swim": null, "bike": "CF6", "run": "RSP1" },
+        "wed": { "swim": "STT2", "bike": "CF9", "run": null },
+        "thu": { "swim": null, "bike": "CCI1", "run": null },
+        "fri": { "swim": "SF3", "bike": null, "run": "RRe5" },
+        "sat": { "swim": null, "bike": "CFo18", "run": null },
+        "sun": { "swim": "SCI1", "bike": null, "run": "RF9" }
+      },
+      "weekly_volume": {
+        "swim_yards": 4250,
+        "bike_time": "3:58",
+        "run_time": "2:25",
+        "total_time": "7:41",
+        "intensity_low_pct": 84,
+        "intensity_high_pct": 16
+      }
+    },
+    {
+      "week": 2,
+      "days": {
+        "mon": { "swim": null, "bike": null, "run": null },
+        "tue": { "swim": null, "bike": "CF8", "run": "RSP9" },
+        "wed": { "swim": "ST1", "bike": "CF10", "run": null },
+        "thu": { "swim": null, "bike": "CFF9", "run": null },
+        "fri": { "swim": "SF3", "bike": null, "run": "RRe6" },
+        "sat": { "swim": null, "bike": "CFo17", "run": null },
+        "sun": { "swim": "SMI1", "bike": null, "run": "RF10" }
+      },
+      "weekly_volume": {
+        "swim_yards": 5000,
+        "bike_time": "4:09",
+        "run_time": "2:34",
+        "total_time": "8:15",
+        "intensity_low_pct": 83,
+        "intensity_high_pct": 17
+      }
+    },
+    {
+      "week": 3,
+      "days": {
+        "mon": { "swim": null, "bike": null, "run": null },
+        "tue": { "swim": null, "bike": "CF5", "run": "RSP21" },
+        "wed": { "swim": "SMI1", "bike": null, "run": null },
+        "thu": { "swim": null, "bike": "CT30", "run": "RRe3" },
+        "fri": { "swim": "STT1", "bike": null, "run": null },
+        "sat": { "swim": "SF1", "bike": null, "run": "RT16" },
+        "sun": { "swim": null, "bike": "CAn7", "run": null }
+      },
+      "weekly_volume": {
+        "swim_yards": 5100,
+        "bike_time": "3:12",
+        "run_time": "2:15",
+        "total_time": "7:01",
+        "intensity_low_pct": 80,
+        "intensity_high_pct": 20
+      }
+    },
+    {
+      "week": 4,
+      "days": {
+        "mon": { "swim": null, "bike": null, "run": null },
+        "tue": { "swim": null, "bike": "CF7", "run": "RSP5" },
+        "wed": { "swim": "SMI1", "bike": "CF5", "run": null },
+        "thu": { "swim": null, "bike": "CCI2", "run": null },
+        "fri": { "swim": "STT1", "bike": null, "run": "RRe6" },
+        "sat": { "swim": null, "bike": "CFo19", "run": null },
+        "sun": { "swim": "SF1", "bike": null, "run": "RF11" }
+      },
+      "weekly_volume": {
+        "swim_yards": 5100,
+        "bike_time": "4:00",
+        "run_time": "2:38",
+        "total_time": "8:12",
+        "intensity_low_pct": 80,
+        "intensity_high_pct": 20
+      }
+    },
+    {
+      "week": 5,
+      "days": {
+        "mon": { "swim": null, "bike": null, "run": null },
+        "tue": { "swim": null, "bike": "CF7", "run": "RHR9" },
+        "wed": { "swim": "SMI2", "bike": "CF7", "run": null },
+        "thu": { "swim": null, "bike": "CCI3", "run": null },
+        "fri": { "swim": "SF2", "bike": null, "run": "RRe5" },
+        "sat": { "swim": null, "bike": "CFF13", "run": null },
+        "sun": { "swim": "ST3", "bike": null, "run": "RF12" }
+      },
+      "weekly_volume": {
+        "swim_yards": 5350,
+        "bike_time": "4:26",
+        "run_time": "2:55",
+        "total_time": "8:59",
+        "intensity_low_pct": 81,
+        "intensity_high_pct": 19
+      }
+    },
+    {
+      "week": 6,
+      "days": {
+        "mon": { "swim": null, "bike": null, "run": null },
+        "tue": { "swim": null, "bike": "CF5", "run": "RSP21" },
+        "wed": { "swim": "SMI1", "bike": null, "run": null },
+        "thu": { "swim": null, "bike": "CT30", "run": "RRe3" },
+        "fri": { "swim": "STT1", "bike": null, "run": null },
+        "sat": { "swim": "SF1", "bike": null, "run": "RT16" },
+        "sun": { "swim": null, "bike": "CAn7", "run": null }
+      },
+      "weekly_volume": {
+        "swim_yards": 5100,
+        "bike_time": "3:12",
+        "run_time": "2:15",
+        "total_time": "7:01",
+        "intensity_low_pct": 80,
+        "intensity_high_pct": 20
+      }
+    },
+    {
+      "week": 7,
+      "days": {
+        "mon": { "swim": null, "bike": null, "run": null },
+        "tue": { "swim": null, "bike": "CF10", "run": "RHR9" },
+        "wed": { "swim": "SMI2", "bike": null, "run": null },
+        "thu": { "swim": null, "bike": "CCI3", "run": "RRe7" },
+        "fri": { "swim": "SF4", "bike": null, "run": null },
+        "sat": { "swim": null, "bike": "CFF14", "run": null },
+        "sun": { "swim": "ST1", "bike": null, "run": "RF12" }
+      },
+      "weekly_volume": {
+        "swim_yards": 5250,
+        "bike_time": "4:01",
+        "run_time": "3:05",
+        "total_time": "8:42",
+        "intensity_low_pct": 81,
+        "intensity_high_pct": 19
+      }
+    },
+    {
+      "week": 8,
+      "days": {
+        "mon": { "swim": null, "bike": null, "run": null },
+        "tue": { "swim": null, "bike": "CF11", "run": "RCI1" },
+        "wed": { "swim": "SCI17", "bike": null, "run": null },
+        "thu": { "swim": null, "bike": "CCI4", "run": "RRe7" },
+        "fri": { "swim": "SF5", "bike": null, "run": null },
+        "sat": { "swim": null, "bike": "CAn8", "run": null },
+        "sun": { "swim": "SSP1", "bike": null, "run": "RF12" }
+      },
+      "weekly_volume": {
+        "swim_yards": 5500,
+        "bike_time": "5:05",
+        "run_time": "3:20",
+        "total_time": "10:05",
+        "intensity_low_pct": 84,
+        "intensity_high_pct": 16
+      }
+    },
+    {
+      "week": 9,
+      "days": {
+        "mon": { "swim": null, "bike": null, "run": null },
+        "tue": { "swim": null, "bike": "CF4", "run": "RSP21" },
+        "wed": { "swim": "SMI1", "bike": null, "run": null },
+        "thu": { "swim": null, "bike": "CT31", "run": "RRe3" },
+        "fri": { "swim": "STT1", "bike": null, "run": null },
+        "sat": { "swim": "SF1", "bike": null, "run": "RT16" },
+        "sun": { "swim": null, "bike": "CFF14", "run": null }
+      },
+      "weekly_volume": {
+        "swim_yards": 5100,
+        "bike_time": "3:35",
+        "run_time": "2:15",
+        "total_time": "7:24",
+        "intensity_low_pct": 78,
+        "intensity_high_pct": 22
+      }
+    },
+    {
+      "week": 10,
+      "days": {
+        "mon": { "swim": null, "bike": null, "run": null },
+        "tue": { "swim": null, "bike": "CRe9", "run": "RAn4" },
+        "wed": { "swim": "SCI17", "bike": null, "run": null },
+        "thu": { "swim": null, "bike": "CCI4", "run": "RRe9" },
+        "fri": { "swim": "SAe1", "bike": null, "run": null },
+        "sat": { "swim": null, "bike": "CFo20", "run": null },
+        "sun": { "swim": "SSP1", "bike": null, "run": "RF14" }
+      },
+      "weekly_volume": {
+        "swim_yards": 5750,
+        "bike_time": "4:50",
+        "run_time": "3:25",
+        "total_time": "9:59",
+        "intensity_low_pct": 83,
+        "intensity_high_pct": 17
+      }
+    },
+    {
+      "week": 11,
+      "days": {
+        "mon": { "swim": null, "bike": null, "run": null },
+        "tue": { "swim": null, "bike": "CF11", "run": "RAn4" },
+        "wed": { "swim": "SCI15", "bike": null, "run": null },
+        "thu": { "swim": null, "bike": "CCI5", "run": "RRe9" },
+        "fri": { "swim": "SAe2", "bike": null, "run": null },
+        "sat": { "swim": null, "bike": "CFo16", "run": null },
+        "sun": { "swim": "SSP5", "bike": null, "run": "RF15" }
+      },
+      "weekly_volume": {
+        "swim_yards": 6000,
+        "bike_time": "5:34",
+        "run_time": "3:35",
+        "total_time": "10:58",
+        "intensity_low_pct": 84,
+        "intensity_high_pct": 16
+      }
+    },
+    {
+      "week": 12,
+      "days": {
+        "mon": { "swim": null, "bike": null, "run": null },
+        "tue": { "swim": null, "bike": "CF4", "run": "RT4" },
+        "wed": { "swim": "SMI1", "bike": null, "run": null },
+        "thu": { "swim": null, "bike": "CT8", "run": null },
+        "fri": { "swim": "STT1", "bike": null, "run": "RF12" },
+        "sat": { "swim": "SF4", "bike": "CFF14", "run": null },
+        "sun": { "swim": null, "bike": null, "run": null }
+      },
+      "weekly_volume": {
+        "swim_yards": 5600,
+        "bike_time": "3:35",
+        "run_time": "2:14",
+        "total_time": "7:33",
+        "intensity_low_pct": 80,
+        "intensity_high_pct": 20
+      }
+    },
+    {
+      "week": 13,
+      "days": {
+        "mon": { "swim": null, "bike": null, "run": null },
+        "tue": { "swim": null, "bike": "CF11", "run": "RCI10" },
+        "wed": { "swim": "SCI15", "bike": null, "run": null },
+        "thu": { "swim": null, "bike": "CCI5", "run": "RF9" },
+        "fri": { "swim": "SAe2", "bike": null, "run": null },
+        "sat": { "swim": null, "bike": "CAe35", "run": null },
+        "sun": { "swim": "SSP5", "bike": null, "run": "RF15" }
+      },
+      "weekly_volume": {
+        "swim_yards": 6000,
+        "bike_time": "6:04",
+        "run_time": "3:35",
+        "total_time": "11:28",
+        "intensity_low_pct": 87,
+        "intensity_high_pct": 13
+      }
+    },
+    {
+      "week": 14,
+      "days": {
+        "mon": { "swim": null, "bike": null, "run": null },
+        "tue": { "swim": null, "bike": "CF11", "run": "RCI10" },
+        "wed": { "swim": "SCI17", "bike": null, "run": null },
+        "thu": { "swim": null, "bike": "CCI5", "run": "RF9" },
+        "fri": { "swim": "SAe3", "bike": null, "run": null },
+        "sat": { "swim": null, "bike": "CAe20", "run": null },
+        "sun": { "swim": "SCI1", "bike": null, "run": "RF17" }
+      },
+      "weekly_volume": {
+        "swim_yards": 6500,
+        "bike_time": "6:34",
+        "run_time": "3:45",
+        "total_time": "12:18",
+        "intensity_low_pct": 87,
+        "intensity_high_pct": 13
+      }
+    },
+    {
+      "week": 15,
+      "days": {
+        "mon": { "swim": null, "bike": null, "run": null },
+        "tue": { "swim": null, "bike": "CF4", "run": "RT4" },
+        "wed": { "swim": "SMI1", "bike": null, "run": null },
+        "thu": { "swim": null, "bike": "CT8", "run": null },
+        "fri": { "swim": "STT1", "bike": null, "run": "RF12" },
+        "sat": { "swim": "SF4", "bike": "CFo16", "run": null },
+        "sun": { "swim": null, "bike": null, "run": null }
+      },
+      "weekly_volume": {
+        "swim_yards": 5600,
+        "bike_time": "4:35",
+        "run_time": "2:14",
+        "total_time": "8:33",
+        "intensity_low_pct": 79,
+        "intensity_high_pct": 21
+      }
+    },
+    {
+      "week": 16,
+      "days": {
+        "mon": { "swim": null, "bike": null, "run": null },
+        "tue": { "swim": null, "bike": null, "run": "RCI12" },
+        "wed": { "swim": "SCI15", "bike": "CCI5", "run": null },
+        "thu": { "swim": null, "bike": null, "run": "RAe12" },
+        "fri": { "swim": "SAe5", "bike": "CF9", "run": null },
+        "sat": { "swim": null, "bike": null, "run": null },
+        "sun": { "swim": "SCI14", "bike": "CAe21", "run": "RF3" }
+      },
+      "weekly_volume": {
+        "swim_yards": 6500,
+        "bike_time": "6:34",
+        "run_time": "3:47",
+        "total_time": "12:20",
+        "intensity_low_pct": 86,
+        "intensity_high_pct": 14
+      }
+    },
+    {
+      "week": 17,
+      "days": {
+        "mon": { "swim": null, "bike": null, "run": null },
+        "tue": { "swim": null, "bike": null, "run": "RCI12" },
+        "wed": { "swim": "SCI16", "bike": "CCI5", "run": null },
+        "thu": { "swim": null, "bike": null, "run": "RAe13" },
+        "fri": { "swim": "SF9", "bike": "CF9", "run": null },
+        "sat": { "swim": "SMI2", "bike": null, "run": null },
+        "sun": { "swim": null, "bike": "CAe22", "run": "RF3" }
+      },
+      "weekly_volume": {
+        "swim_yards": 7000,
+        "bike_time": "7:04",
+        "run_time": "4:02",
+        "total_time": "13:14",
+        "intensity_low_pct": 86,
+        "intensity_high_pct": 14
+      }
+    },
+    {
+      "week": 18,
+      "days": {
+        "mon": { "swim": null, "bike": null, "run": null },
+        "tue": { "swim": null, "bike": "CF4", "run": "RT4" },
+        "wed": { "swim": "SMI1", "bike": null, "run": null },
+        "thu": { "swim": null, "bike": "CT8", "run": null },
+        "fri": { "swim": "STT1", "bike": null, "run": "RF12" },
+        "sat": { "swim": "SF4", "bike": "CFo16", "run": null },
+        "sun": { "swim": null, "bike": null, "run": null }
+      },
+      "weekly_volume": {
+        "swim_yards": 5600,
+        "bike_time": "4:35",
+        "run_time": "2:14",
+        "total_time": "8:33",
+        "intensity_low_pct": 79,
+        "intensity_high_pct": 21
+      }
+    },
+    {
+      "week": 19,
+      "days": {
+        "mon": { "swim": null, "bike": null, "run": null },
+        "tue": { "swim": null, "bike": null, "run": "RCI10" },
+        "wed": { "swim": "ST8", "bike": "CCI5", "run": null },
+        "thu": { "swim": null, "bike": "CCI17", "run": "RAe18" },
+        "fri": { "swim": "SAe5", "bike": null, "run": null },
+        "sat": { "swim": "SSI1", "bike": null, "run": null },
+        "sun": { "swim": null, "bike": "CAe23", "run": "RF6" }
+      },
+      "weekly_volume": {
+        "swim_yards": 7300,
+        "bike_time": "7:04",
+        "run_time": "4:10",
+        "total_time": "13:28",
+        "intensity_low_pct": 87,
+        "intensity_high_pct": 13
+      }
+    },
+    {
+      "week": 20,
+      "days": {
+        "mon": { "swim": null, "bike": null, "run": null },
+        "tue": { "swim": null, "bike": null, "run": "RCI13" },
+        "wed": { "swim": "SSI1", "bike": "CCI5", "run": null },
+        "thu": { "swim": null, "bike": "CCI17", "run": "RAe20" },
+        "fri": { "swim": "SF10", "bike": null, "run": null },
+        "sat": { "swim": "STa1", "bike": null, "run": null },
+        "sun": { "swim": null, "bike": "CAe24", "run": "RF9" }
+      },
+      "weekly_volume": {
+        "swim_yards": 6750,
+        "bike_time": "7:34",
+        "run_time": "4:30",
+        "total_time": "14:08",
+        "intensity_low_pct": 90,
+        "intensity_high_pct": 10
+      }
+    },
+    {
+      "week": 21,
+      "days": {
+        "mon": { "swim": "STa1", "bike": null, "run": "RF5" },
+        "tue": { "swim": null, "bike": "CSP3", "run": null },
+        "wed": { "swim": "SMI2", "bike": "CRe13", "run": "RT16" },
+        "thu": { "swim": null, "bike": "CT30", "run": null },
+        "fri": { "swim": "SAe5", "bike": null, "run": "RSP21" },
+        "sat": { "swim": null, "bike": null, "run": null },
+        "sun": { "swim": null, "bike": "CAe2", "run": "RF6" }
+      },
+      "weekly_volume": {
+        "swim_yards": 6550,
+        "bike_time": "5:01",
+        "run_time": "3:10",
+        "total_time": "10:11",
+        "intensity_low_pct": 86,
+        "intensity_high_pct": 14
+      }
+    },
+    {
+      "week": 22,
+      "days": {
+        "mon": { "swim": null, "bike": null, "run": null },
+        "tue": { "swim": null, "bike": "CF9", "run": "RFF4" },
+        "wed": { "swim": "SSI1", "bike": null, "run": null },
+        "thu": { "swim": null, "bike": "CFF4", "run": "RF3" },
+        "fri": { "swim": "SCI1", "bike": null, "run": null },
+        "sat": { "swim": "STa1", "bike": "CRe1", "run": "RTa1" },
+        "sun": { "swim": null, "bike": null, "run": null }
+      },
+      "weekly_volume": {
+        "swim_yards": 4250,
+        "bike_time": "2:00",
+        "run_time": "1:20",
+        "total_time": "4:38",
+        "intensity_low_pct": 85,
+        "intensity_high_pct": 15
+      }
+    }
+  ]
+}

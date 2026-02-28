@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "source": "",
+    "version": "1.0",
+    "notes": "Workout codes and descriptions. Intensity: low, moderate, high. Zones reference the 80/20 zone system or equivalent."
+  },
+  "workouts": {
+    "EXAMPLE1": {
+      "name": "Example Workout Name",
+      "sport": "run",
+      "intensity": "low",
+      "duration_minutes": 30,
+      "description": "Full workout description including intervals, warmup, cooldown",
+      "zones": "Zone 1-2"
+    }
+  }
+}

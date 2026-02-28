@@ -1,0 +1,4 @@
+code,name,sport,intensity,duration_minutes,zones,description
+RF1,Run Foundation 1,run,low,30,Zone 1-2,Easy aerobic run at conversational pace
+CF6,Cycle Foundation 6,bike,low,60,Zone 1-2,Easy aerobic ride
+STT2,Swim Tempo/Threshold 2,swim,moderate,45,Zone 3,Tempo swim intervals

@@ -1,0 +1,67 @@
+week,phase,sport,mon,tue,wed,thu,fri,sat,sun,weekly_volume,intensity_low_pct,intensity_high_pct
+1,General,swim,,,STT2,,SF3,,SCI1,4250,84,16
+1,General,bike,,CF6,CF9,CCI1,,CFo18,,3:58,,
+1,General,run,,RSP1,,,RRe5,,RF9,2:25,,
+2,General,swim,,,ST1,,SF3,,SMI1,5000,83,17
+2,General,bike,,CF8,CF10,CFF9,,CFo17,,4:09,,
+2,General,run,,RSP9,,,RRe6,,RF10,2:34,,
+3,General,swim,,,SMI1,,STT1,SF1,,5100,80,20
+3,General,bike,,CF5,,CT30,,,CAn7,3:12,,
+3,General,run,,RSP21,,RRe3,,RT16,,2:15,,
+4,General,swim,,,SMI1,,STT1,,SF1,5100,80,20
+4,General,bike,,CF7,CF5,CCI2,,CFo19,,4:00,,
+4,General,run,,RSP5,,,RRe6,,RF11,2:38,,
+5,General,swim,,,SMI2,,SF2,,ST3,5350,81,19
+5,General,bike,,CF7,CF7,CCI3,,CFF13,,4:26,,
+5,General,run,,RHR9,,,RRe5,,RF12,2:55,,
+6,General,swim,,,SMI1,,STT1,SF1,,5100,80,20
+6,General,bike,,CF5,,CT30,,,CAn7,3:12,,
+6,General,run,,RSP21,,RRe3,,RT16,,2:15,,
+7,General,swim,,,SMI2,,SF4,,ST1,5250,81,19
+7,General,bike,,CF10,,CCI3,,CFF14,,4:01,,
+7,General,run,,RHR9,,RRe7,,,RF12,3:05,,
+8,General,swim,,,SCI17,,SF5,,SSP1,5500,84,16
+8,General,bike,,CF11,,CCI4,,CAn8,,5:05,,
+8,General,run,,RCI1,,RRe7,,,RF12,3:20,,
+9,General,swim,,,SMI1,,STT1,SF1,,5100,78,22
+9,General,bike,,CF4,,CT31,,,CFF14,3:35,,
+9,General,run,,RSP21,,RRe3,,RT16,,2:15,,
+10,General,swim,,,SCI17,,SAe1,,SSP1,5750,83,17
+10,General,bike,,CRe9,,CCI4,,CFo20,,4:50,,
+10,General,run,,RAn4,,RRe9,,,RF14,3:25,,
+11,General,swim,,,SCI15,,SAe2,,SSP5,6000,84,16
+11,General,bike,,CF11,,CCI5,,CFo16,,5:34,,
+11,General,run,,RAn4,,RRe9,,,RF15,3:35,,
+12,General,swim,,,SMI1,,STT1,SF4,,5600,80,20
+12,General,bike,,CF4,,CT8,,,CFF14,3:35,,
+12,General,run,,RT4,,,RF12,,,2:14,,
+13,Race Specific,swim,,,SCI15,,SAe2,,SSP5,6000,87,13
+13,Race Specific,bike,,CF11,,CCI5,,CAe35,,6:04,,
+13,Race Specific,run,,RCI10,,RF9,,,RF15,3:35,,
+14,Race Specific,swim,,,SCI17,,SAe3,,SCI1,6500,87,13
+14,Race Specific,bike,,CF11,,CCI5,,CAe20,,6:34,,
+14,Race Specific,run,,RCI10,,RF9,,,RF17,3:45,,
+15,Race Specific,swim,,,SMI1,,STT1,SF4,,5600,79,21
+15,Race Specific,bike,,CF4,,CT8,,CFo16,,4:35,,
+15,Race Specific,run,,RT4,,,RF12,,,2:14,,
+16,Race Specific,swim,,,SCI15,,SAe5,,SCI14,6500,86,14
+16,Race Specific,bike,,,CCI5,,CF9,,CAe21,6:34,,
+16,Race Specific,run,,RCI12,,RAe12,,,RF3,3:47,,
+17,Race Specific,swim,,,SCI16,,SF9,SMI2,,7000,86,14
+17,Race Specific,bike,,,CCI5,,CF9,,CAe22,7:04,,
+17,Race Specific,run,,RCI12,,RAe13,,,RF3,4:02,,
+18,Race Specific,swim,,,SMI1,,STT1,SF4,,5600,79,21
+18,Race Specific,bike,,CF4,,CT8,,CFo16,,4:35,,
+18,Race Specific,run,,RT4,,,RF12,,,2:14,,
+19,Race Specific,swim,,,ST8,,SAe5,SSI1,,7300,87,13
+19,Race Specific,bike,,,CCI5,CCI17,,,CAe23,7:04,,
+19,Race Specific,run,,RCI10,,RAe18,,,RF6,4:10,,
+20,Race Specific,swim,,,SSI1,,SF10,STa1,,6750,90,10
+20,Race Specific,bike,,,CCI5,CCI17,,,CAe24,7:34,,
+20,Race Specific,run,,RCI13,,RAe20,,,RF9,4:30,,
+21,Taper,swim,STa1,,SMI2,,SAe5,,,6550,86,14
+21,Taper,bike,,CSP3,CRe13,CT30,,,CAe2,5:01,,
+21,Taper,run,RF5,,RT16,,RSP21,,RF6,3:10,,
+22,Taper,swim,,,SSI1,,SCI1,STa1,,4250,85,15
+22,Taper,bike,,CF9,,CFF4,,CRe1,,2:00,,
+22,Taper,run,,RFF4,,RF3,,RTa1,,1:20,,
