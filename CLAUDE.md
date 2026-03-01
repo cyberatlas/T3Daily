@@ -6,7 +6,8 @@
 - The canonical project plan is `FITNESS_DASHBOARD_PLAN.md` — keep it up to date as decisions are made.
 - Emphasize security in all decisions. Prefer the more secure option when trade-offs arise.
 - Use Podman, not Docker. Use `Containerfile` instead of `Dockerfile`. Use `podman-compose.yml` instead of `docker-compose.yml`.
-- Use Python virtual environments for local development.
+- Use `pyenv activate T3Daily` to activate the project virtual environment before running any Python commands.
+- Always activate the venv before installing packages or running scripts.
 - Training plan imports support both JSON and CSV formats.
 - Discuss design decisions with the user before implementing. Don't assume — present options with trade-offs.
 - When updating project docs (plan, hardware, etc.), edit in place. Don't rewrite from scratch unless necessary.

@@ -1,0 +1,722 @@
+{
+  "metadata": {
+    "source": "80/20 Endurance",
+    "source_url": "https://www.8020endurance.com/8020-workout-library/",
+    "attribution": "Workout descriptions sourced from 80/20 Endurance. Used with attribution for non-commercial purposes.",
+    "sport": "swim",
+    "version": "1.0",
+    "total_workouts": 71
+  },
+  "workouts": {
+    "SRe1": {
+      "name": "Swim Recovery 1",
+      "sport": "swim",
+      "intensity": "low",
+      "duration": "1500",
+      "duration_minutes": null,
+      "zones": "Zone 1-1",
+      "max_zone": 1,
+      "description": "1500 Zone 1"
+    },
+    "SRe2": {
+      "name": "Swim Recovery 2",
+      "sport": "swim",
+      "intensity": "low",
+      "duration": "1600",
+      "duration_minutes": null,
+      "zones": "Zone 1-1",
+      "max_zone": 1,
+      "description": "1600 Zone 1"
+    },
+    "SRe3": {
+      "name": "Swim Recovery 3",
+      "sport": "swim",
+      "intensity": "low",
+      "duration": "1750",
+      "duration_minutes": null,
+      "zones": "Zone 1-1",
+      "max_zone": 1,
+      "description": "1750 Zone 1"
+    },
+    "SRe4": {
+      "name": "Swim Recovery 4",
+      "sport": "swim",
+      "intensity": "low",
+      "duration": "2000",
+      "duration_minutes": null,
+      "zones": "Zone 1-1",
+      "max_zone": 1,
+      "description": "2000 Zone 1"
+    },
+    "SRe5": {
+      "name": "Swim Recovery 5",
+      "sport": "swim",
+      "intensity": "low",
+      "duration": "2250",
+      "duration_minutes": null,
+      "zones": "Zone 1-1",
+      "max_zone": 1,
+      "description": "2250 Zone 1"
+    },
+    "SRe6": {
+      "name": "Swim Recovery 6",
+      "sport": "swim",
+      "intensity": "low",
+      "duration": "2500",
+      "duration_minutes": null,
+      "zones": "Zone 1-1",
+      "max_zone": 1,
+      "description": "2500 Zone 1"
+    },
+    "SRe7": {
+      "name": "Swim Recovery 7",
+      "sport": "swim",
+      "intensity": "low",
+      "duration": "2750",
+      "duration_minutes": null,
+      "zones": "Zone 1-1",
+      "max_zone": 1,
+      "description": "2750 Zone 1"
+    },
+    "SRe8": {
+      "name": "Swim Recovery 8",
+      "sport": "swim",
+      "intensity": "low",
+      "duration": "3000",
+      "duration_minutes": null,
+      "zones": "Zone 1-1",
+      "max_zone": 1,
+      "description": "3000 Zone 1"
+    },
+    "SRe9": {
+      "name": "Swim Recovery 9",
+      "sport": "swim",
+      "intensity": "low",
+      "duration": "1000",
+      "duration_minutes": null,
+      "zones": "Zone 1-1",
+      "max_zone": 1,
+      "description": "1000 Zone 1"
+    },
+    "SF1": {
+      "name": "Swim Foundation 1",
+      "sport": "swim",
+      "intensity": "low",
+      "duration": "1500",
+      "duration_minutes": null,
+      "zones": "Zone 1-2",
+      "max_zone": 2,
+      "description": "300 Zone 1, 900 Zone 2, 300 Zone 1"
+    },
+    "SF2": {
+      "name": "Swim Foundation 2",
+      "sport": "swim",
+      "intensity": "low",
+      "duration": "1600",
+      "duration_minutes": null,
+      "zones": "Zone 1-2",
+      "max_zone": 2,
+      "description": "300 Zone 1, 1000 Zone 2, 300 Zone 1"
+    },
+    "SF3": {
+      "name": "Swim Foundation 3",
+      "sport": "swim",
+      "intensity": "low",
+      "duration": "1750",
+      "duration_minutes": null,
+      "zones": "Zone 1-2",
+      "max_zone": 2,
+      "description": "300 Zone 1, 1150 Zone 2, 300 Zone 1"
+    },
+    "SF4": {
+      "name": "Swim Foundation 4",
+      "sport": "swim",
+      "intensity": "low",
+      "duration": "2000",
+      "duration_minutes": null,
+      "zones": "Zone 1-2",
+      "max_zone": 2,
+      "description": "300 Zone 1, 1400 Zone 2, 300 Zone 1"
+    },
+    "SF5": {
+      "name": "Swim Foundation 5",
+      "sport": "swim",
+      "intensity": "low",
+      "duration": "2250",
+      "duration_minutes": null,
+      "zones": "Zone 1-2",
+      "max_zone": 2,
+      "description": "300 Zone 1, 1650 Zone 2, 300 Zone 1"
+    },
+    "SF6": {
+      "name": "Swim Foundation 6",
+      "sport": "swim",
+      "intensity": "low",
+      "duration": "2500",
+      "duration_minutes": null,
+      "zones": "Zone 1-2",
+      "max_zone": 2,
+      "description": "300 Zone 1, 1900 Zone 2, 300 Zone 1"
+    },
+    "SF7": {
+      "name": "Swim Foundation 7",
+      "sport": "swim",
+      "intensity": "low",
+      "duration": "2750",
+      "duration_minutes": null,
+      "zones": "Zone 1-2",
+      "max_zone": 2,
+      "description": "250 Zone 1, 2250 Zone 2, 250 Zone 1"
+    },
+    "SF8": {
+      "name": "Swim Foundation 8",
+      "sport": "swim",
+      "intensity": "low",
+      "duration": "3000",
+      "duration_minutes": null,
+      "zones": "Zone 1-2",
+      "max_zone": 2,
+      "description": "250 Zone 1, 2500 Zone 2, 250 Zone 1"
+    },
+    "SF9": {
+      "name": "Swim Foundation 9",
+      "sport": "swim",
+      "intensity": "low",
+      "duration": "3500",
+      "duration_minutes": null,
+      "zones": "Zone 1-2",
+      "max_zone": 2,
+      "description": "250 Zone 1, 3000 Zone 2, 250 Zone 1"
+    },
+    "SF10": {
+      "name": "Swim Foundation 10",
+      "sport": "swim",
+      "intensity": "low",
+      "duration": "4000",
+      "duration_minutes": null,
+      "zones": "Zone 1-2",
+      "max_zone": 2,
+      "description": "250 Zone 1, 3500 Zone 2, 250 Zone 1"
+    },
+    "SAe1": {
+      "name": "Swim Aerobic 1",
+      "sport": "swim",
+      "intensity": "low",
+      "duration": "2500",
+      "duration_minutes": null,
+      "zones": "Zone 1-2",
+      "max_zone": 2,
+      "description": "250 Zone 1, 4 x (500 Zone 2, 60\" rest) 250 Zone 1"
+    },
+    "SAe2": {
+      "name": "Swim Aerobic 2",
+      "sport": "swim",
+      "intensity": "low",
+      "duration": "3000",
+      "duration_minutes": null,
+      "zones": "Zone 1-2",
+      "max_zone": 2,
+      "description": "250 Zone 1, 5 x (500 Zone 2, 60\" rest) 250 Zone 1"
+    },
+    "SAe3": {
+      "name": "Swim Aerobic 3",
+      "sport": "swim",
+      "intensity": "low",
+      "duration": "3500",
+      "duration_minutes": null,
+      "zones": "Zone 1-2",
+      "max_zone": 2,
+      "description": "250 Zone 1, 6 x (500 Zone 2, 60\" rest) 250 Zone 1"
+    },
+    "SAe4": {
+      "name": "Swim Aerobic 4",
+      "sport": "swim",
+      "intensity": "low",
+      "duration": "3500",
+      "duration_minutes": null,
+      "zones": "Zone 1-2",
+      "max_zone": 2,
+      "description": "250 Zone 1, 3 x (1000 Zone 2, 60\" rest) 250 Zone 1"
+    },
+    "SAe5": {
+      "name": "Swim Aerobic 5",
+      "sport": "swim",
+      "intensity": "low",
+      "duration": "3800",
+      "duration_minutes": null,
+      "zones": "Zone 1-2",
+      "max_zone": 2,
+      "description": "150 Zone 1, 7 x (500 Zone 2, 60\" rest) 150 Zone 1"
+    },
+    "SAe6": {
+      "name": "Swim Aerobic 6",
+      "sport": "swim",
+      "intensity": "low",
+      "duration": "4500",
+      "duration_minutes": null,
+      "zones": "Zone 1-2",
+      "max_zone": 2,
+      "description": "250 Zone 1, 4 x (1000 Zone 2, 60\" rest) 250 Zone 1"
+    },
+    "SAe7": {
+      "name": "Swim Aerobic 7",
+      "sport": "swim",
+      "intensity": "low",
+      "duration": "2000",
+      "duration_minutes": null,
+      "zones": "Zone 1-2",
+      "max_zone": 2,
+      "description": "250 Zone 1, 3 x (500 Zone 2, 60\" rest) 250 Zone 1"
+    },
+    "SCI1": {
+      "name": "Swim Cruise Intervals 1",
+      "sport": "swim",
+      "intensity": "moderate",
+      "duration": "1500",
+      "duration_minutes": null,
+      "zones": "Zone 1-3",
+      "max_zone": 3,
+      "description": "500 Zone 1, 5 x (100 Zone 3/15\" rest) 500 Zone 1"
+    },
+    "SCI2": {
+      "name": "Swim Cruise Intervals 2",
+      "sport": "swim",
+      "intensity": "moderate",
+      "duration": "2000",
+      "duration_minutes": null,
+      "zones": "Zone 1-3",
+      "max_zone": 3,
+      "description": "500 Zone 1, 5 x (100 Zone 3/15\" rest) 500 Zone 2, 500 Zone 1"
+    },
+    "SCI3": {
+      "name": "Swim Cruise Intervals 3",
+      "sport": "swim",
+      "intensity": "moderate",
+      "duration": "2500",
+      "duration_minutes": null,
+      "zones": "Zone 1-3",
+      "max_zone": 3,
+      "description": "500 Zone 1, 500 Zone 2, 5 x (100 Zone 3/15\" rest) 500 Zone 2, 500 Zone 1"
+    },
+    "SCI4": {
+      "name": "Swim Cruise Intervals 4",
+      "sport": "swim",
+      "intensity": "moderate",
+      "duration": "1500",
+      "duration_minutes": null,
+      "zones": "Zone 1-3",
+      "max_zone": 3,
+      "description": "250 Zone 1, 10 x (100 Zone 3/15\" rest) 250 Zone 1"
+    },
+    "SCI5": {
+      "name": "Swim Cruise Intervals 5",
+      "sport": "swim",
+      "intensity": "moderate",
+      "duration": "2000",
+      "duration_minutes": null,
+      "zones": "Zone 1-3",
+      "max_zone": 3,
+      "description": "250 Zone 1, 10 x (100 Zone 3/15\" rest) 500 Zone 2, 250 Zone 1"
+    },
+    "SCI6": {
+      "name": "Swim Cruise Intervals 6",
+      "sport": "swim",
+      "intensity": "moderate",
+      "duration": "2500",
+      "duration_minutes": null,
+      "zones": "Zone 1-3",
+      "max_zone": 3,
+      "description": "250 Zone 1, 500 Zone 2, 10 x (100 Zone 3/15\" rest) 500 Zone 2, 250 Zone 1"
+    },
+    "SCI7": {
+      "name": "Swim Cruise Intervals 7",
+      "sport": "swim",
+      "intensity": "moderate",
+      "duration": "3000",
+      "duration_minutes": null,
+      "zones": "Zone 1-3",
+      "max_zone": 3,
+      "description": "250 Zone 1, 500 Zone 2, 15 x (100 Zone 3/15\" rest) 500 Zone 2, 250 Zone 1"
+    },
+    "SCI8": {
+      "name": "Swim Cruise Intervals 8",
+      "sport": "swim",
+      "intensity": "moderate",
+      "duration": "2000",
+      "duration_minutes": null,
+      "zones": "Zone 1-3",
+      "max_zone": 3,
+      "description": "500 Zone 1, 5 x (200 Zone 3/15\" rest) 500 Zone 1"
+    },
+    "SCI9": {
+      "name": "Swim Cruise Intervals 9",
+      "sport": "swim",
+      "intensity": "moderate",
+      "duration": "2400",
+      "duration_minutes": null,
+      "zones": "Zone 1-3",
+      "max_zone": 3,
+      "description": "500 Zone 1, 7 x (200 Zone 3/15\" rest) 500 Zone 1"
+    },
+    "SCI10": {
+      "name": "Swim Cruise Intervals 10",
+      "sport": "swim",
+      "intensity": "moderate",
+      "duration": "3000",
+      "duration_minutes": null,
+      "zones": "Zone 1-3",
+      "max_zone": 3,
+      "description": "500 Zone 1, 10 x (200 Zone 3/15\" rest) 500 Zone 1"
+    },
+    "SCI11": {
+      "name": "Swim Cruise Intervals 11",
+      "sport": "swim",
+      "intensity": "moderate",
+      "duration": "1900",
+      "duration_minutes": null,
+      "zones": "Zone 1-3",
+      "max_zone": 3,
+      "description": "500 Zone 1, 3 x (300 Zone 3/15\" rest) 500 Zone 1"
+    },
+    "SCI12": {
+      "name": "Swim Cruise Intervals 12",
+      "sport": "swim",
+      "intensity": "moderate",
+      "duration": "2500",
+      "duration_minutes": null,
+      "zones": "Zone 1-3",
+      "max_zone": 3,
+      "description": "500 Zone 1, 5 x (300 Zone 3/15\" rest) 500 Zone 1"
+    },
+    "SCI13": {
+      "name": "Swim Cruise Intervals 13",
+      "sport": "swim",
+      "intensity": "moderate",
+      "duration": "3500",
+      "duration_minutes": null,
+      "zones": "Zone 1-3",
+      "max_zone": 3,
+      "description": "500 Zone 1, 500 Zone 2, 5 x (300 Zone 3/15\" rest) 500 Zone 2, 500 Zone 1"
+    },
+    "SCI14": {
+      "name": "Swim Cruise Intervals 14",
+      "sport": "swim",
+      "intensity": "moderate",
+      "duration": "1200",
+      "duration_minutes": null,
+      "zones": "Zone 1-3",
+      "max_zone": 3,
+      "description": "300 Zone 1, 3 x (200 Zone 3/15\" rest) 300 Zone 1"
+    },
+    "SCI15": {
+      "name": "Swim Cruise Intervals 15",
+      "sport": "swim",
+      "intensity": "moderate",
+      "duration": "1500",
+      "duration_minutes": null,
+      "zones": "Zone 1-3",
+      "max_zone": 3,
+      "description": "300 Zone 1, 3 x (300 Zone 3/15\" rest) 300 Zone 1"
+    },
+    "SCI16": {
+      "name": "Swim Cruise Intervals 16",
+      "sport": "swim",
+      "intensity": "moderate",
+      "duration": "1750",
+      "duration_minutes": null,
+      "zones": "Zone 1-3",
+      "max_zone": 3,
+      "description": "500 Zone 1, 5 x (200 Zone 3/15\" rest) 250 Zone 1"
+    },
+    "SCI17": {
+      "name": "Swim Cruise Intervals 17",
+      "sport": "swim",
+      "intensity": "moderate",
+      "duration": "1500",
+      "duration_minutes": null,
+      "zones": "Zone 1-3",
+      "max_zone": 3,
+      "description": "150 Zone 1, 6 x (200 Zone 3/15\" rest) 150 Zone 1"
+    },
+    "ST1": {
+      "name": "Swim Tempo 1",
+      "sport": "swim",
+      "intensity": "moderate",
+      "duration": "1500",
+      "duration_minutes": null,
+      "zones": "Zone 1-3",
+      "max_zone": 3,
+      "description": "250 Zone 1, 500 Zone 3, 500 Zone 2, 250 Zone 1"
+    },
+    "ST2": {
+      "name": "Swim Tempo 2",
+      "sport": "swim",
+      "intensity": "moderate",
+      "duration": "1750",
+      "duration_minutes": null,
+      "zones": "Zone 1-3",
+      "max_zone": 3,
+      "description": "250 Zone 1, 500 Zone 3, 750 Zone 2, 250 Zone 1"
+    },
+    "ST3": {
+      "name": "Swim Tempo 3",
+      "sport": "swim",
+      "intensity": "moderate",
+      "duration": "2000",
+      "duration_minutes": null,
+      "zones": "Zone 1-3",
+      "max_zone": 3,
+      "description": "250 Zone 1, 500 Zone 3, 1000 Zone 2, 250 Zone 1"
+    },
+    "ST4": {
+      "name": "Swim Tempo 4",
+      "sport": "swim",
+      "intensity": "moderate",
+      "duration": "2250",
+      "duration_minutes": null,
+      "zones": "Zone 1-3",
+      "max_zone": 3,
+      "description": "250 Zone 1, 750 Zone 3, 1000 Zone 2, 250 Zone 1"
+    },
+    "ST5": {
+      "name": "Swim Tempo 5",
+      "sport": "swim",
+      "intensity": "moderate",
+      "duration": "2500",
+      "duration_minutes": null,
+      "zones": "Zone 1-3",
+      "max_zone": 3,
+      "description": "250 Zone 1, 1000 Zone 3, 1000 Zone 2, 250 Zone 1"
+    },
+    "ST6": {
+      "name": "Swim Tempo 6",
+      "sport": "swim",
+      "intensity": "moderate",
+      "duration": "3000",
+      "duration_minutes": null,
+      "zones": "Zone 1-3",
+      "max_zone": 3,
+      "description": "500 Zone 1, 1000 Zone 3, 1000 Zone 2, 500 Zone 1"
+    },
+    "ST7": {
+      "name": "Swim Tempo 7",
+      "sport": "swim",
+      "intensity": "moderate",
+      "duration": "2000",
+      "duration_minutes": null,
+      "zones": "Zone 1-3",
+      "max_zone": 3,
+      "description": "500 Zone 1, 1000 Zone 3, 500 Zone 1"
+    },
+    "ST8": {
+      "name": "Swim Tempo 8",
+      "sport": "swim",
+      "intensity": "moderate",
+      "duration": "1750",
+      "duration_minutes": null,
+      "zones": "Zone 1-3",
+      "max_zone": 3,
+      "description": "500 Zone 1, 1000 Zone 3, 250 Zone 1"
+    },
+    "SMI1": {
+      "name": "Swim Mixed Intervals 1",
+      "sport": "swim",
+      "intensity": "high",
+      "duration": "1750",
+      "duration_minutes": null,
+      "zones": "Zone 1-4",
+      "max_zone": 4,
+      "description": "500 Zone 1, 5 x (100 Zone 3/15\" rest) 250 Zone 1, 5 x (50 Zone 4/20\" rest) 250 Zone 1"
+    },
+    "SMI2": {
+      "name": "Swim Mixed Intervals 2",
+      "sport": "swim",
+      "intensity": "high",
+      "duration": "1750",
+      "duration_minutes": null,
+      "zones": "Zone 1-5",
+      "max_zone": 5,
+      "description": "500 Zone 1, 5 x (100 Zone 3/15\" rest) 250 Zone 1, 10 x (25 Zone 5/10\" rest) 250 Zone 1"
+    },
+    "SMI3": {
+      "name": "Swim Mixed Intervals 3",
+      "sport": "swim",
+      "intensity": "high",
+      "duration": "2350",
+      "duration_minutes": null,
+      "zones": "Zone 1-4",
+      "max_zone": 4,
+      "description": "250 Zone 1, 10 x (100 Zone 3/15\" rest), 500 Zone 1, 7 x (50 Zone 4/20\" rest) 250 Zone 1"
+    },
+    "SMI4": {
+      "name": "Swim Mixed Intervals 4",
+      "sport": "swim",
+      "intensity": "high",
+      "duration": "3000",
+      "duration_minutes": null,
+      "zones": "Zone 1-4",
+      "max_zone": 4,
+      "description": "250 Zone 1, 500 Zone 2, 10 x (100 Zone 3/15\" rest), 150 Zone 1, 7 x (50 Zone 4/20\" rest) 500 Zone 2, 250 Zone 1"
+    },
+    "SMI5": {
+      "name": "Swim Mixed Intervals 5",
+      "sport": "swim",
+      "intensity": "high",
+      "duration": "2400",
+      "duration_minutes": null,
+      "zones": "Zone 1-4",
+      "max_zone": 4,
+      "description": "300 Zone 1, 10 x (100 Zone 3/15\" rest), 300 Zone 1, 10 x (50 Zone 4/20\" rest) 300 Zone 1"
+    },
+    "SMI6": {
+      "name": "Swim Mixed Intervals 6",
+      "sport": "swim",
+      "intensity": "high",
+      "duration": "2500",
+      "duration_minutes": null,
+      "zones": "Zone 1-5",
+      "max_zone": 5,
+      "description": "500 Zone 1, 5 x (200 Zone 3/15\" rest) 250 Zone 1, 10 x (25 Zone 5/10\" rest) 500 Zone 1"
+    },
+    "SMI7": {
+      "name": "Swim Mixed Intervals 7",
+      "sport": "swim",
+      "intensity": "high",
+      "duration": "3000",
+      "duration_minutes": null,
+      "zones": "Zone 1-5",
+      "max_zone": 5,
+      "description": "500 Zone 1, 5 x (200 Zone 3/15\" rest) 250 Zone 1, 10 x (25 Zone 5/10\" rest) 500 Zone 2, 500 Zone 1"
+    },
+    "SMI8": {
+      "name": "Swim Mixed Intervals 8",
+      "sport": "swim",
+      "intensity": "high",
+      "duration": "1900",
+      "duration_minutes": null,
+      "zones": "Zone 1-4",
+      "max_zone": 4,
+      "description": "500 Zone 2, 3 x (100 Zone 3/15\" rest), 500 Zone 1, 6 x (50 Zone 4/20\" rest) 300 Zone 1"
+    },
+    "SSI1": {
+      "name": "Swim Speed Intervals 1",
+      "sport": "swim",
+      "intensity": "high",
+      "duration": "1750",
+      "duration_minutes": null,
+      "zones": "Zone 1-5",
+      "max_zone": 5,
+      "description": "250 Zone 1, 500 Zone 2, 10 x (25 Zone 5/10\" rest) 500 Zone 2, 250 Zone 1"
+    },
+    "SSI2": {
+      "name": "Swim Speed Intervals 2",
+      "sport": "swim",
+      "intensity": "high",
+      "duration": "2300",
+      "duration_minutes": null,
+      "zones": "Zone 1-5",
+      "max_zone": 5,
+      "description": "250 Zone 1, 500 Zone 2, 12 x (25 Zone 5/10\" rest) 1000 Zone 2, 250 Zone 1"
+    },
+    "SSP1": {
+      "name": "Swim Speed Play 1",
+      "sport": "swim",
+      "intensity": "moderate",
+      "duration": "1750",
+      "duration_minutes": null,
+      "zones": "Zone 1-4",
+      "max_zone": 4,
+      "description": "250 Zone 1, 500 Zone 2, 5 x (50 Zone 4/20\" rest) 500 Zone 2, 250 Zone 1"
+    },
+    "SSP2": {
+      "name": "Swim Speed Play 2",
+      "sport": "swim",
+      "intensity": "moderate",
+      "duration": "2100",
+      "duration_minutes": null,
+      "zones": "Zone 1-4",
+      "max_zone": 4,
+      "description": "250 Zone 1, 500 Zone 2, 7 x (50 Zone 4/20\" rest) 500 Zone 2, 500 Zone 1"
+    },
+    "SSP3": {
+      "name": "Swim Speed Play 3",
+      "sport": "swim",
+      "intensity": "moderate",
+      "duration": "2500",
+      "duration_minutes": null,
+      "zones": "Zone 1-4",
+      "max_zone": 4,
+      "description": "500 Zone 1, 500 Zone 2, 10 x (50 Zone 4/20\" rest) 500 Zone 2, 500 Zone 1"
+    },
+    "SSP4": {
+      "name": "Swim Speed Play 4",
+      "sport": "swim",
+      "intensity": "moderate",
+      "duration": "3100",
+      "duration_minutes": null,
+      "zones": "Zone 1-4",
+      "max_zone": 4,
+      "description": "500 Zone 1, 500 Zone 2, 12 x (50 Zone 4/20\" rest) 1000 Zone 2, 500 Zone 1"
+    },
+    "SSP5": {
+      "name": "Swim Speed Play 5",
+      "sport": "swim",
+      "intensity": "moderate",
+      "duration": "1500",
+      "duration_minutes": null,
+      "zones": "Zone 1-4",
+      "max_zone": 4,
+      "description": "250 Zone 1, 500 Zone 2, 10 x (50 Zone 4/20\" rest) 250 Zone 1"
+    },
+    "SSP6": {
+      "name": "Swim Speed Play 6",
+      "sport": "swim",
+      "intensity": "moderate",
+      "duration": "1750",
+      "duration_minutes": null,
+      "zones": "Zone 1-4",
+      "max_zone": 4,
+      "description": "250 Zone 1, 500 Zone 2, 15 x (50 Zone 4/20\" rest) 250 Zone 1"
+    },
+    "SSP7": {
+      "name": "Swim Speed Play 7",
+      "sport": "swim",
+      "intensity": "moderate",
+      "duration": "1200",
+      "duration_minutes": null,
+      "zones": "Zone 1-4",
+      "max_zone": 4,
+      "description": "250 Zone 1, 200 Zone 2, 10 x (50 Zone 4/20\" rest) 250 Zone 1"
+    },
+    "STa1": {
+      "name": "Swim Taper 1",
+      "sport": "swim",
+      "intensity": "low",
+      "duration": "1000",
+      "duration_minutes": null,
+      "zones": "Zone 1-4",
+      "max_zone": 4,
+      "description": "400 Zone 1, 4 x (50 Zone 4 / 30\" rest), 400 Zone 1"
+    },
+    "STT1": {
+      "name": "Swim Time Trial 1",
+      "sport": "swim",
+      "intensity": "moderate",
+      "duration": "1850",
+      "duration_minutes": null,
+      "zones": "Zone 1-3",
+      "max_zone": 3,
+      "description": "250 Zone 1, 400 Zone 3, 120\" rest, 200 Zone 3, 120\" rest, 1000 Zone 1"
+    },
+    "STT2": {
+      "name": "Swim Time Trial 2",
+      "sport": "swim",
+      "intensity": "moderate",
+      "duration": "1000",
+      "duration_minutes": null,
+      "zones": "Zone 1-3",
+      "max_zone": 3,
+      "description": "200 Zone 1, 400 Zone 3, 120\" rest, 200 Zone 3, 120\" rest, 200 Zone 1"
+    }
+  }
+}

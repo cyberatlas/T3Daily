@@ -74,6 +74,29 @@ tokens). Fallback options if this breaks:
 - Garmin Connect can export CSV/JSON manually
 - Community typically patches the library within days of breakage
 
+### Workout Library & Attribution
+
+The app ships with the **80/20 Endurance workout library** as a baseline set of workout
+descriptions. These workouts are published freely (no paywall, no login) at
+https://www.8020endurance.com/8020-workout-library/ and are included with attribution.
+
+**Attribution requirements:**
+- Credit "80/20 Endurance" in the app footer/about page
+- Link back to https://www.8020endurance.com/8020-workout-library/
+- The app is non-commercial (no charge)
+
+**What is included vs. not included:**
+- ✅ Individual workout descriptions (freely published online) — included with attribution
+- ❌ Training plan schedules (from the book) — NOT included; each user imports their own
+
+Users can add their own workout libraries (custom coach plans, other programs) using the
+same JSON/CSV template. The 80/20 library is just the default baseline that other users
+can also use out of the box.
+
+**If the app is ever distributed publicly:** contact 80/20 Endurance to confirm they're
+okay with the inclusion. Companies that publish free content often appreciate tools that
+drive traffic back to their site.
+
 ---
 
 ## Training Plan Format
@@ -149,7 +172,9 @@ RF1,Run Foundation 1,run,low,30,Zone 1-2,Easy aerobic run at conversational pace
 - `data/plan/templates/` — blank JSON and CSV templates for creating new plans
 - `data/plan/8020_ironman_level1.json` — full 22-week plan transcribed from the book
 - `data/plan/8020_ironman_level1.csv` — same plan in CSV format
-- `data/plan/8020_workout_library.json` — all 97 workout codes with sport pre-filled; descriptions to be populated from https://www.8020endurance.com/8020-workout-library/
+- `data/plan/8020_workout_library.json` — 479 workouts (190 run, 218 bike, 71 swim) with descriptions and .FIT file URLs
+- `data/plan/8020_{run,bike,swim}_workouts.json` — per-sport workout files with full details
+- `scripts/parse_workout_csv.py` — reusable parser for 80/20 workout CSV/XLSX files (extracts hyperlinks from xlsx)
 
 ---
 
@@ -204,12 +229,16 @@ fitness-dashboard/
 │   ├── sw.js                      # Service worker
 │   └── static/
 │       └── css/
+├── scripts/
+│   └── parse_workout_csv.py       # 80/20 workout CSV/XLSX parser
 ├── data/
 │   ├── plan/
 │   │   ├── templates/             # Blank JSON + CSV templates for new plans
 │   │   ├── 8020_ironman_level1.json
 │   │   ├── 8020_ironman_level1.csv
-│   │   └── 8020_workout_library.json
+│   │   ├── 8020_workout_library.json  # Combined library (479 workouts)
+│   │   ├── 8020_{run,bike,swim}_workouts.json  # Per-sport details
+│   │   └── 8020_{run,bike,swim}_workouts.csv   # Per-sport CSV exports
 │   └── db/                        # SQLite lives here (mounted volume)
 └── ntfy/
     └── server.yml                 # ntfy config
@@ -314,12 +343,12 @@ Per activity (cycling / running / walking):
 - [x] Transcribe 80/20 plan chart to JSON + CSV (done — see `data/plan/`)
 - [x] Create generic plan template format with JSON + CSV support (done — see `data/plan/templates/`)
 - [x] Extract all 97 workout codes from plan into library skeleton (done — see `data/plan/8020_workout_library.json`)
-- [ ] Populate `8020_workout_library.json` descriptions from 8020endurance.com
+- [x] Populate `8020_workout_library.json` descriptions from 8020endurance.com (479 workouts: 190 run, 218 bike, 71 swim — with .FIT file URLs for run/bike)
 - [ ] Enable TrainerRoad iCal calendar feed (Settings → Calendar)
 - [ ] Get Intervals.icu API key (Settings → API)
 - [ ] Have Garmin Connect username + password ready
 - [ ] Install Podman + podman-compose on laptop
-- [ ] Set up Python venv for local development
+- [x] Set up Python venv for local development (`pyenv activate T3Daily`)
 - [ ] Install Tailscale on Pi and Android phone
 
 ### Phase 1 — Data Pipeline
@@ -428,9 +457,9 @@ Before writing any code, gather:
 1. **Intervals.icu API key** — Profile → Settings → API
 2. **TrainerRoad iCal URL** — Settings → Calendar → Export
 3. **Garmin Connect credentials** — username + password
-4. **Workout library descriptions** — populate `data/plan/8020_workout_library.json` from https://www.8020endurance.com/8020-workout-library/ or the book
+4. ~~**Workout library descriptions**~~ ✅ Done — 479 workouts populated (190 run, 218 bike, 71 swim) with .FIT file URLs for run/bike
 5. **Podman** — install on laptop (`sudo pacman -S podman podman-compose` on Manjaro)
-6. **Python venv** — `python3 -m venv .venv && source .venv/bin/activate`
+6. ~~**Python venv**~~ ✅ Done — `pyenv activate T3Daily`
 
 ---
 

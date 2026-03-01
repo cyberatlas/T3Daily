@@ -6,106 +6,4245 @@
     "notes": "All workout codes from the Ironman Distance Level 1 plan. Descriptions need to be populated from the book or 8020endurance.com workout library."
   },
   "workouts": {
-    "SAe1":  { "name": "", "sport": "swim", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "SAe2":  { "name": "", "sport": "swim", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "SAe3":  { "name": "", "sport": "swim", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "SAe5":  { "name": "", "sport": "swim", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "SCI1":  { "name": "", "sport": "swim", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "SCI14": { "name": "", "sport": "swim", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "SCI15": { "name": "", "sport": "swim", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "SCI16": { "name": "", "sport": "swim", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "SCI17": { "name": "", "sport": "swim", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "SF1":   { "name": "", "sport": "swim", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "SF2":   { "name": "", "sport": "swim", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "SF3":   { "name": "", "sport": "swim", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "SF4":   { "name": "", "sport": "swim", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "SF5":   { "name": "", "sport": "swim", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "SF9":   { "name": "", "sport": "swim", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "SF10":  { "name": "", "sport": "swim", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "SMI1":  { "name": "", "sport": "swim", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "SMI2":  { "name": "", "sport": "swim", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "SSI1":  { "name": "", "sport": "swim", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "SSP1":  { "name": "", "sport": "swim", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "SSP5":  { "name": "", "sport": "swim", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "ST1":   { "name": "", "sport": "swim", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "ST3":   { "name": "", "sport": "swim", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "ST8":   { "name": "", "sport": "swim", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "STa1":  { "name": "", "sport": "swim", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "STT1":  { "name": "", "sport": "swim", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "STT2":  { "name": "", "sport": "swim", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-
-    "CAe2":   { "name": "", "sport": "bike", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "CAe20":  { "name": "", "sport": "bike", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "CAe21":  { "name": "", "sport": "bike", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "CAe22":  { "name": "", "sport": "bike", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "CAe23":  { "name": "", "sport": "bike", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "CAe24":  { "name": "", "sport": "bike", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "CAe35":  { "name": "", "sport": "bike", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "CAn7":   { "name": "", "sport": "bike", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "CAn8":   { "name": "", "sport": "bike", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "CCI1":   { "name": "", "sport": "bike", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "CCI2":   { "name": "", "sport": "bike", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "CCI3":   { "name": "", "sport": "bike", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "CCI4":   { "name": "", "sport": "bike", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "CCI5":   { "name": "", "sport": "bike", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "CCI17":  { "name": "", "sport": "bike", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "CF4":    { "name": "", "sport": "bike", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "CF5":    { "name": "", "sport": "bike", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "CF6":    { "name": "", "sport": "bike", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "CF7":    { "name": "", "sport": "bike", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "CF8":    { "name": "", "sport": "bike", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "CF9":    { "name": "", "sport": "bike", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "CF10":   { "name": "", "sport": "bike", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "CF11":   { "name": "", "sport": "bike", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "CFF4":   { "name": "", "sport": "bike", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "CFF9":   { "name": "", "sport": "bike", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "CFF13":  { "name": "", "sport": "bike", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "CFF14":  { "name": "", "sport": "bike", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "CFo16":  { "name": "", "sport": "bike", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "CFo17":  { "name": "", "sport": "bike", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "CFo18":  { "name": "", "sport": "bike", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "CFo19":  { "name": "", "sport": "bike", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "CFo20":  { "name": "", "sport": "bike", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "CRe1":   { "name": "", "sport": "bike", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "CRe9":   { "name": "", "sport": "bike", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "CRe13":  { "name": "", "sport": "bike", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "CSP3":   { "name": "", "sport": "bike", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "CT8":    { "name": "", "sport": "bike", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "CT30":   { "name": "", "sport": "bike", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "CT31":   { "name": "", "sport": "bike", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-
-    "RAe12":  { "name": "", "sport": "run", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "RAe13":  { "name": "", "sport": "run", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "RAe18":  { "name": "", "sport": "run", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "RAe20":  { "name": "", "sport": "run", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "RAn4":   { "name": "", "sport": "run", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "RCI1":   { "name": "", "sport": "run", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "RCI10":  { "name": "", "sport": "run", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "RCI12":  { "name": "", "sport": "run", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "RCI13":  { "name": "", "sport": "run", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "RF3":    { "name": "", "sport": "run", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "RF5":    { "name": "", "sport": "run", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "RF6":    { "name": "", "sport": "run", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "RF9":    { "name": "", "sport": "run", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "RF10":   { "name": "", "sport": "run", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "RF11":   { "name": "", "sport": "run", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "RF12":   { "name": "", "sport": "run", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "RF14":   { "name": "", "sport": "run", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "RF15":   { "name": "", "sport": "run", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "RF17":   { "name": "", "sport": "run", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "RFF4":   { "name": "", "sport": "run", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "RHR9":   { "name": "", "sport": "run", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "RRe3":   { "name": "", "sport": "run", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "RRe5":   { "name": "", "sport": "run", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "RRe6":   { "name": "", "sport": "run", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "RRe7":   { "name": "", "sport": "run", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "RRe9":   { "name": "", "sport": "run", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "RSP1":   { "name": "", "sport": "run", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "RSP5":   { "name": "", "sport": "run", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "RSP9":   { "name": "", "sport": "run", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "RSP21":  { "name": "", "sport": "run", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "RT4":    { "name": "", "sport": "run", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "RT16":   { "name": "", "sport": "run", "intensity": "", "duration_minutes": null, "zones": "", "description": "" },
-    "RTa1":   { "name": "", "sport": "run", "intensity": "", "duration_minutes": null, "zones": "", "description": "" }
+    "SAe1": {
+      "name": "Swim Aerobic 1",
+      "sport": "swim",
+      "intensity": "low",
+      "duration_minutes": null,
+      "zones": "Zone 1-2",
+      "description": "250 Zone 1, 4 x (500 Zone 2, 60\" rest) 250 Zone 1"
+    },
+    "SAe2": {
+      "name": "Swim Aerobic 2",
+      "sport": "swim",
+      "intensity": "low",
+      "duration_minutes": null,
+      "zones": "Zone 1-2",
+      "description": "250 Zone 1, 5 x (500 Zone 2, 60\" rest) 250 Zone 1"
+    },
+    "SAe3": {
+      "name": "Swim Aerobic 3",
+      "sport": "swim",
+      "intensity": "low",
+      "duration_minutes": null,
+      "zones": "Zone 1-2",
+      "description": "250 Zone 1, 6 x (500 Zone 2, 60\" rest) 250 Zone 1"
+    },
+    "SAe5": {
+      "name": "Swim Aerobic 5",
+      "sport": "swim",
+      "intensity": "low",
+      "duration_minutes": null,
+      "zones": "Zone 1-2",
+      "description": "150 Zone 1, 7 x (500 Zone 2, 60\" rest) 150 Zone 1"
+    },
+    "SCI1": {
+      "name": "Swim Cruise Intervals 1",
+      "sport": "swim",
+      "intensity": "moderate",
+      "duration_minutes": null,
+      "zones": "Zone 1-3",
+      "description": "500 Zone 1, 5 x (100 Zone 3/15\" rest) 500 Zone 1"
+    },
+    "SCI14": {
+      "name": "Swim Cruise Intervals 14",
+      "sport": "swim",
+      "intensity": "moderate",
+      "duration_minutes": null,
+      "zones": "Zone 1-3",
+      "description": "300 Zone 1, 3 x (200 Zone 3/15\" rest) 300 Zone 1"
+    },
+    "SCI15": {
+      "name": "Swim Cruise Intervals 15",
+      "sport": "swim",
+      "intensity": "moderate",
+      "duration_minutes": null,
+      "zones": "Zone 1-3",
+      "description": "300 Zone 1, 3 x (300 Zone 3/15\" rest) 300 Zone 1"
+    },
+    "SCI16": {
+      "name": "Swim Cruise Intervals 16",
+      "sport": "swim",
+      "intensity": "moderate",
+      "duration_minutes": null,
+      "zones": "Zone 1-3",
+      "description": "500 Zone 1, 5 x (200 Zone 3/15\" rest) 250 Zone 1"
+    },
+    "SCI17": {
+      "name": "Swim Cruise Intervals 17",
+      "sport": "swim",
+      "intensity": "moderate",
+      "duration_minutes": null,
+      "zones": "Zone 1-3",
+      "description": "150 Zone 1, 6 x (200 Zone 3/15\" rest) 150 Zone 1"
+    },
+    "SF1": {
+      "name": "Swim Foundation 1",
+      "sport": "swim",
+      "intensity": "low",
+      "duration_minutes": null,
+      "zones": "Zone 1-2",
+      "description": "300 Zone 1, 900 Zone 2, 300 Zone 1"
+    },
+    "SF2": {
+      "name": "Swim Foundation 2",
+      "sport": "swim",
+      "intensity": "low",
+      "duration_minutes": null,
+      "zones": "Zone 1-2",
+      "description": "300 Zone 1, 1000 Zone 2, 300 Zone 1"
+    },
+    "SF3": {
+      "name": "Swim Foundation 3",
+      "sport": "swim",
+      "intensity": "low",
+      "duration_minutes": null,
+      "zones": "Zone 1-2",
+      "description": "300 Zone 1, 1150 Zone 2, 300 Zone 1"
+    },
+    "SF4": {
+      "name": "Swim Foundation 4",
+      "sport": "swim",
+      "intensity": "low",
+      "duration_minutes": null,
+      "zones": "Zone 1-2",
+      "description": "300 Zone 1, 1400 Zone 2, 300 Zone 1"
+    },
+    "SF5": {
+      "name": "Swim Foundation 5",
+      "sport": "swim",
+      "intensity": "low",
+      "duration_minutes": null,
+      "zones": "Zone 1-2",
+      "description": "300 Zone 1, 1650 Zone 2, 300 Zone 1"
+    },
+    "SF9": {
+      "name": "Swim Foundation 9",
+      "sport": "swim",
+      "intensity": "low",
+      "duration_minutes": null,
+      "zones": "Zone 1-2",
+      "description": "250 Zone 1, 3000 Zone 2, 250 Zone 1"
+    },
+    "SF10": {
+      "name": "Swim Foundation 10",
+      "sport": "swim",
+      "intensity": "low",
+      "duration_minutes": null,
+      "zones": "Zone 1-2",
+      "description": "250 Zone 1, 3500 Zone 2, 250 Zone 1"
+    },
+    "SMI1": {
+      "name": "Swim Mixed Intervals 1",
+      "sport": "swim",
+      "intensity": "high",
+      "duration_minutes": null,
+      "zones": "Zone 1-4",
+      "description": "500 Zone 1, 5 x (100 Zone 3/15\" rest) 250 Zone 1, 5 x (50 Zone 4/20\" rest) 250 Zone 1"
+    },
+    "SMI2": {
+      "name": "Swim Mixed Intervals 2",
+      "sport": "swim",
+      "intensity": "high",
+      "duration_minutes": null,
+      "zones": "Zone 1-5",
+      "description": "500 Zone 1, 5 x (100 Zone 3/15\" rest) 250 Zone 1, 10 x (25 Zone 5/10\" rest) 250 Zone 1"
+    },
+    "SSI1": {
+      "name": "Swim Speed Intervals 1",
+      "sport": "swim",
+      "intensity": "high",
+      "duration_minutes": null,
+      "zones": "Zone 1-5",
+      "description": "250 Zone 1, 500 Zone 2, 10 x (25 Zone 5/10\" rest) 500 Zone 2, 250 Zone 1"
+    },
+    "SSP1": {
+      "name": "Swim Speed Play 1",
+      "sport": "swim",
+      "intensity": "moderate",
+      "duration_minutes": null,
+      "zones": "Zone 1-4",
+      "description": "250 Zone 1, 500 Zone 2, 5 x (50 Zone 4/20\" rest) 500 Zone 2, 250 Zone 1"
+    },
+    "SSP5": {
+      "name": "Swim Speed Play 5",
+      "sport": "swim",
+      "intensity": "moderate",
+      "duration_minutes": null,
+      "zones": "Zone 1-4",
+      "description": "250 Zone 1, 500 Zone 2, 10 x (50 Zone 4/20\" rest) 250 Zone 1"
+    },
+    "ST1": {
+      "name": "Swim Tempo 1",
+      "sport": "swim",
+      "intensity": "moderate",
+      "duration_minutes": null,
+      "zones": "Zone 1-3",
+      "description": "250 Zone 1, 500 Zone 3, 500 Zone 2, 250 Zone 1"
+    },
+    "ST3": {
+      "name": "Swim Tempo 3",
+      "sport": "swim",
+      "intensity": "moderate",
+      "duration_minutes": null,
+      "zones": "Zone 1-3",
+      "description": "250 Zone 1, 500 Zone 3, 1000 Zone 2, 250 Zone 1"
+    },
+    "ST8": {
+      "name": "Swim Tempo 8",
+      "sport": "swim",
+      "intensity": "moderate",
+      "duration_minutes": null,
+      "zones": "Zone 1-3",
+      "description": "500 Zone 1, 1000 Zone 3, 250 Zone 1"
+    },
+    "STa1": {
+      "name": "Swim Taper 1",
+      "sport": "swim",
+      "intensity": "low",
+      "duration_minutes": null,
+      "zones": "Zone 1-4",
+      "description": "400 Zone 1, 4 x (50 Zone 4 / 30\" rest), 400 Zone 1"
+    },
+    "STT1": {
+      "name": "Swim Time Trial 1",
+      "sport": "swim",
+      "intensity": "moderate",
+      "duration_minutes": null,
+      "zones": "Zone 1-3",
+      "description": "250 Zone 1, 400 Zone 3, 120\" rest, 200 Zone 3, 120\" rest, 1000 Zone 1"
+    },
+    "STT2": {
+      "name": "Swim Time Trial 2",
+      "sport": "swim",
+      "intensity": "moderate",
+      "duration_minutes": null,
+      "zones": "Zone 1-3",
+      "description": "200 Zone 1, 400 Zone 3, 120\" rest, 200 Zone 3, 120\" rest, 200 Zone 1"
+    },
+    "CAe2": {
+      "name": "Cycling Aerobic 2",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 90,
+      "zones": "Zone 1-2",
+      "description": "15 minutes Zone 1, 3 x (15 minutes Zone 2/5 minutes Zone 1) 15 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CAe2.FIT"
+    },
+    "CAe20": {
+      "name": "Cycling Aerobic 20",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 240,
+      "zones": "Zone 1-2",
+      "description": "10 minutes Zone 1, 4 x (30 minutes Zone 2/10 minutes Zone 1) 70 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CAe20.FIT"
+    },
+    "CAe21": {
+      "name": "Cycling Aerobic 21",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 270,
+      "zones": "Zone 1-2",
+      "description": "10 minutes Zone 1, 4 x (30 minutes Zone 2/10 minutes Zone 1) 100 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CAe21.FIT"
+    },
+    "CAe22": {
+      "name": "Cycling Aerobic 22",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 300,
+      "zones": "Zone 1-2",
+      "description": "10 minutes Zone 1, 4 x (30 minutes Zone 2/10 minutes Zone 1) 130 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CAe22.FIT"
+    },
+    "CAe23": {
+      "name": "Cycling Aerobic 23",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 330,
+      "zones": "Zone 1-2",
+      "description": "10 minutes Zone 1, 4 x (30 minutes Zone 2/10 minutes Zone 1) 160 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CAe23.FIT"
+    },
+    "CAe24": {
+      "name": "Cycling Aerobic 24",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 360,
+      "zones": "Zone 1-2",
+      "description": "10 minutes Zone 1, 4 x (30 minutes Zone 2/10 minutes Zone 1) 190 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CAe24.FIT"
+    },
+    "CAe35": {
+      "name": "Cycling Aerobic 35",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 210,
+      "zones": "Zone 1-2",
+      "description": "10 minutes Zone 1, 4 x (30 minutes Zone 2/10 minutes Zone 1) 40 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CAe35.FIT"
+    },
+    "CAn7": {
+      "name": "Cycling Anaerobic 7",
+      "sport": "bike",
+      "intensity": "high",
+      "duration_minutes": 92,
+      "zones": "Zone 1-4",
+      "description": "10 minutes Zone 1, 10 minutes Zone 2, 3 x (2.5 minutes Zone 4/5 minutes Zone 1) 45 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CAn7.FIT"
+    },
+    "CAn8": {
+      "name": "Cycling Anaerobic 8",
+      "sport": "bike",
+      "intensity": "high",
+      "duration_minutes": 150,
+      "zones": "Zone 1-4",
+      "description": "10 minutes Zone 1, 10 minutes Zone 2, 4 x (2.5 minutes Zone 4/5 minutes Zone 1) 95 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CAn8.FIT"
+    },
+    "CCI1": {
+      "name": "Cycling Cruise Intervals 1",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 60,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 20 minutes Zone 2, 3 x (5 minutes Zone 3/3 minutes Zone 1) 5 minutes Zone 2, 6 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CCI1.FIT"
+    },
+    "CCI2": {
+      "name": "Cycling Cruise Intervals 2",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 60,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 4 x (5 minutes Zone 3/3 minutes Zone 1) 13 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CCI2.FIT"
+    },
+    "CCI3": {
+      "name": "Cycling Cruise Intervals 3",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 61,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 10 minutes Zone 2, 4 x (6 minutes Zone 3/3 minutes Zone 1) 5 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CCI3.FIT"
+    },
+    "CCI4": {
+      "name": "Cycling Cruise Intervals 4",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 65,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 10 minutes Zone 2, 4 x (7 minutes Zone 3/3 minutes Zone 1) 5 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CCI4.FIT"
+    },
+    "CCI5": {
+      "name": "Cycling Cruise Intervals 5",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 64,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 4 x (8 minutes Zone 3/3 minutes Zone 1) 5 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CCI5.FIT"
+    },
+    "CCI17": {
+      "name": "Cycling Cruise Intervals 17",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 30,
+      "zones": "Zone 1-3",
+      "description": "10 minutes Zone 1, 3 x (3 minutes Zone 3/2 minutes Zone 1) 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CCI17.FIT"
+    },
+    "CF4": {
+      "name": "Cycling Foundation 4",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 35,
+      "zones": "Zone 1-2",
+      "description": "5 minutes in Zone 1, 25 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CF4.FIT"
+    },
+    "CF5": {
+      "name": "Cycling Foundation 5",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 40,
+      "zones": "Zone 1-2",
+      "description": "5 minutes in Zone 1, 30 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CF5.FIT"
+    },
+    "CF6": {
+      "name": "Cycling Foundation 6",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 45,
+      "zones": "Zone 1-2",
+      "description": "5 minutes in Zone 1, 35 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CF6.FIT"
+    },
+    "CF7": {
+      "name": "Cycling Foundation 7",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 50,
+      "zones": "Zone 1-2",
+      "description": "5 minutes in Zone 1, 40 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CF7.FIT"
+    },
+    "CF8": {
+      "name": "Cycling Foundation 8",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 55,
+      "zones": "Zone 1-2",
+      "description": "5 minutes in Zone 1, 45 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CF8.FIT"
+    },
+    "CF9": {
+      "name": "Cycling Foundation 9",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 60,
+      "zones": "Zone 1-2",
+      "description": "5 minutes in Zone 1, 50 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CF9.FIT"
+    },
+    "CF10": {
+      "name": "Cycling Foundation 10",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 60,
+      "zones": "Zone 1-2",
+      "description": "15 minutes in Zone 1, 35 minutes Zone 2, 10 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CF10.FIT"
+    },
+    "CF11": {
+      "name": "Cycling Foundation 11",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 90,
+      "zones": "Zone 1-2",
+      "description": "30 minutes in Zone 1, 50 minutes Zone 2, 10 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CF11.FIT"
+    },
+    "CFF4": {
+      "name": "Cycling Fast Finish 4",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 40,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 25 minutes Zone 2, 10 minutes Zone 3",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CFF4.FIT"
+    },
+    "CFF9": {
+      "name": "Cycling Fast Finish 9",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 60,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 40 minutes Zone 2, 15 minutes Zone 3",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CFF9.FIT"
+    },
+    "CFF13": {
+      "name": "Cycling Fast Finish 13",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 105,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 85 minutes Zone 2, 15 minutes Zone 3",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CFF13.FIT"
+    },
+    "CFF14": {
+      "name": "Cycling Fast Finish 14",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 120,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 100 minutes Zone 2, 15 minutes Zone 3",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CFF14.FIT"
+    },
+    "CFo16": {
+      "name": "Cycling Foundation (Long) 16",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 180,
+      "zones": "Zone 1-5",
+      "description": "15 minutes Zone 1, 15 minutes Zone 2, 10 x (1 minute Zone 5 uphill or simulated/2 minutes Zone 1), 115 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CFo16.FIT"
+    },
+    "CFo17": {
+      "name": "Cycling Foundation (Long) 17",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 74,
+      "zones": "Zone 1-5",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 12 x (30 seconds Zone 5 uphill or simulated/90 seconds Zone 1), 35 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CFo17.FIT"
+    },
+    "CFo18": {
+      "name": "Cycling Foundation (Long) 18",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 78,
+      "zones": "Zone 1-5",
+      "description": "5 minutes Zone 1, 10 minutes Zone 2, 6 x (1 minute Zone 5 uphill or simulated/2 minutes Zone 1), 40 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CFo18.FIT"
+    },
+    "CFo19": {
+      "name": "Cycling Foundation (Long) 19",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 90,
+      "zones": "Zone 1-5",
+      "description": "5 minutes Zone 1, 15 minutes Zone 2, 8 x (1 minute Zone 5 uphill or simulated/2 minutes Zone 1), 46 minutes Zone 2",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CFo19.FIT"
+    },
+    "CFo20": {
+      "name": "Cycling Foundation (Long) 20",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 165,
+      "zones": "Zone 1-5",
+      "description": "10 minutes Zone 1, 15 minutes Zone 2, 10 x (1 minute Zone 5 uphill or simulated/2 minutes Zone 1), 105 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CFo20.FIT"
+    },
+    "CRe1": {
+      "name": "Cycling Recovery 1",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 20,
+      "zones": "Zone 1-1",
+      "description": "20 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CRe1.FIT"
+    },
+    "CRe9": {
+      "name": "Cycling Recovery 9",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 60,
+      "zones": "Zone 1-1",
+      "description": "60 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CRe9.FIT"
+    },
+    "CRe13": {
+      "name": "Cycling Recovery 13",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 120,
+      "zones": "Zone 1-1",
+      "description": "120 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CRe13.FIT"
+    },
+    "CSP3": {
+      "name": "Cycling Speed Play 3",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 31,
+      "zones": "Zone 1-4",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 4 x (2 minutes Zone 4/2 minutes Zone 1) 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CSP3.FIT"
+    },
+    "CT8": {
+      "name": "Cycling Tempo 8",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 60,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 10 minutes Zone 2, 30 minutes Zone 3, 10minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CT8.FIT"
+    },
+    "CT30": {
+      "name": "Cycling Tempo 30",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 60,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 15 minutes Zone 2, 20 minutes Zone 3, 15 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CT30.FIT"
+    },
+    "CT31": {
+      "name": "Cycling Tempo 31",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 60,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 15 minutes Zone 2, 24 minutes Zone 3, 11 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CT31.FIT"
+    },
+    "RAe12": {
+      "name": "Running Aerobic 12",
+      "sport": "run",
+      "intensity": "low",
+      "duration_minutes": 135,
+      "zones": "Zone 1-2",
+      "description": "10 minutes Zone 1, 3 x (15 minutes Zone 2/5 minutes Zone 1) 65 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RAe12.FIT"
+    },
+    "RAe13": {
+      "name": "Running Aerobic 13",
+      "sport": "run",
+      "intensity": "low",
+      "duration_minutes": 150,
+      "zones": "Zone 1-2",
+      "description": "10 minutes Zone 1, 3 x (15 minutes Zone 2/5 minutes Zone 1) 80 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RAe13.FIT"
+    },
+    "RAe18": {
+      "name": "Running Aerobic 18",
+      "sport": "run",
+      "intensity": "low",
+      "duration_minutes": 160,
+      "zones": "Zone 1-2",
+      "description": "10 minutes Zone 1, 3 x (8 minutes Zone 2/1 minutes Zone 1) 123 minutes Zone 2",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RAe18.FIT"
+    },
+    "RAe20": {
+      "name": "Running Aerobic 20",
+      "sport": "run",
+      "intensity": "low",
+      "duration_minutes": 180,
+      "zones": "Zone 1-2",
+      "description": "10 minutes Zone 1, 3 x (10 minutes Zone 2/1 minutes Zone 1) 137 minutes Zone 2",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RAe20.FIT"
+    },
+    "RAn4": {
+      "name": "Running Anaerobic 4",
+      "sport": "run",
+      "intensity": "high",
+      "duration_minutes": 45,
+      "zones": "Zone 1-4",
+      "description": "15 minutes Zone 1, 4 x (2.5 minutes Zone 4/5 minutes Zone 1)",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RAn4.FIT"
+    },
+    "RCI1": {
+      "name": "Running Cruise Intervals 1",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": 60,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 21 minutes Zone 2, 3 x (5 minutes Zone 3/3 minutes Zone 1) 5 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RCI1.FIT"
+    },
+    "RCI10": {
+      "name": "Running Cruise Intervals 10",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": 45,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 6 minutes Zone 2, 3 x (6 minutes Zone 3/2 minutes Zone 1) 5 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RCI10.FIT"
+    },
+    "RCI12": {
+      "name": "Running Cruise Intervals 12",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": 61,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 10 minutes Zone 2, 4 x (7 minutes Zone 3/2 minutes Zone 1) 5 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RCI12.FIT"
+    },
+    "RCI13": {
+      "name": "Running Cruise Intervals 13",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": 30,
+      "zones": "Zone 1-3",
+      "description": "10 minutes Zone 1, 3 x (3 minutes Zone 3/2 minutes Zone 1) 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RCI13.FIT"
+    },
+    "RF3": {
+      "name": "Running Foundation 3",
+      "sport": "run",
+      "intensity": "low",
+      "duration_minutes": 30,
+      "zones": "Zone 1-2",
+      "description": "5 minutes in Zone 1, 20 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RF3.FIT"
+    },
+    "RF5": {
+      "name": "Running Foundation 5",
+      "sport": "run",
+      "intensity": "low",
+      "duration_minutes": 40,
+      "zones": "Zone 1-2",
+      "description": "5 minutes in Zone 1, 30 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RF5.FIT"
+    },
+    "RF6": {
+      "name": "Running Foundation 6",
+      "sport": "run",
+      "intensity": "low",
+      "duration_minutes": 45,
+      "zones": "Zone 1-2",
+      "description": "5 minutes in Zone 1, 35 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RF6.FIT"
+    },
+    "RF9": {
+      "name": "Running Foundation 9",
+      "sport": "run",
+      "intensity": "low",
+      "duration_minutes": 60,
+      "zones": "Zone 1-2",
+      "description": "5 minutes in Zone 1, 50 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RF9.FIT"
+    },
+    "RF10": {
+      "name": "Running Foundation 10",
+      "sport": "run",
+      "intensity": "low",
+      "duration_minutes": 70,
+      "zones": "Zone 1-2",
+      "description": "5 minutes in Zone 1, 60 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RF10.FIT"
+    },
+    "RF11": {
+      "name": "Running Foundation 11",
+      "sport": "run",
+      "intensity": "low",
+      "duration_minutes": 80,
+      "zones": "Zone 1-2",
+      "description": "5 minutes in Zone 1, 70 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RF11.FIT"
+    },
+    "RF12": {
+      "name": "Running Foundation 12",
+      "sport": "run",
+      "intensity": "low",
+      "duration_minutes": 90,
+      "zones": "Zone 1-2",
+      "description": "5 minutes in Zone 1, 80 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RF12.FIT"
+    },
+    "RF14": {
+      "name": "Running Foundation 14",
+      "sport": "run",
+      "intensity": "low",
+      "duration_minutes": 100,
+      "zones": "Zone 1-2",
+      "description": "5 minutes in Zone 1, 90 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RF14.FIT"
+    },
+    "RF15": {
+      "name": "Running Foundation 15",
+      "sport": "run",
+      "intensity": "low",
+      "duration_minutes": 110,
+      "zones": "Zone 1-2",
+      "description": "5 minutes in Zone 1, 100 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RF15.FIT"
+    },
+    "RF17": {
+      "name": "Running Foundation 17",
+      "sport": "run",
+      "intensity": "low",
+      "duration_minutes": 120,
+      "zones": "Zone 1-2",
+      "description": "5 minutes in Zone 1, 110 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RF17.FIT"
+    },
+    "RFF4": {
+      "name": "Running Fast Finish 4",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": 40,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 25 minutes Zone 2, 10 minutes Zone 3",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RFF4.FIT"
+    },
+    "RHR9": {
+      "name": "Running Hill Repeats 9",
+      "sport": "run",
+      "intensity": "high",
+      "duration_minutes": 45,
+      "zones": "Zone 1-5",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 10 x (1 minute Zone 5 uphill/2 minutes Zone 1) 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RHR9.FIT"
+    },
+    "RRe3": {
+      "name": "Running Recovery 3",
+      "sport": "run",
+      "intensity": "low",
+      "duration_minutes": 30,
+      "zones": "Zone 1-1",
+      "description": "30 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RRe3.FIT"
+    },
+    "RRe5": {
+      "name": "Running Recovery 5",
+      "sport": "run",
+      "intensity": "low",
+      "duration_minutes": 40,
+      "zones": "Zone 1-1",
+      "description": "40 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RRe5.FIT"
+    },
+    "RRe6": {
+      "name": "Running Recovery 6",
+      "sport": "run",
+      "intensity": "low",
+      "duration_minutes": 45,
+      "zones": "Zone 1-1",
+      "description": "45 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RRe6.FIT"
+    },
+    "RRe7": {
+      "name": "Running Recovery 7",
+      "sport": "run",
+      "intensity": "low",
+      "duration_minutes": 50,
+      "zones": "Zone 1-1",
+      "description": "50 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RRe7.FIT"
+    },
+    "RRe9": {
+      "name": "Running Recovery 9",
+      "sport": "run",
+      "intensity": "low",
+      "duration_minutes": 60,
+      "zones": "Zone 1-1",
+      "description": "60 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RRe9.FIT"
+    },
+    "RSP1": {
+      "name": "Running Speed Play 1",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": 45,
+      "zones": "Zone 1-4",
+      "description": "5 minutes Zone 1, 28 minutes Zone 2, 4 x (1 minute Zone 4/2 minutes Zone 1)",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RSP1.FIT"
+    },
+    "RSP5": {
+      "name": "Running Speed Play 5",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": 33,
+      "zones": "Zone 1-4",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 6 x (1 minute Zone 4/2 minutes Zone 1) 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RSP5.FIT"
+    },
+    "RSP9": {
+      "name": "Running Speed Play 9",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": 39,
+      "zones": "Zone 1-4",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 8 x (1 minute Zone 4/2 minutes Zone 1) 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RSP9.FIT"
+    },
+    "RSP21": {
+      "name": "Running Speed Play 21",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": 50,
+      "zones": "Zone 1-4",
+      "description": "5 minutes Zone 1, 10 minutes Zone 2, 5 x (2 minute Zone 4/2 minutes Zone 1) 10 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RSP21.FIT"
+    },
+    "RT4": {
+      "name": "Running Tempo 4",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": 44,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 24 minutes Zone 3, 5 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RT4.FIT"
+    },
+    "RT16": {
+      "name": "Running Tempo 16",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": 60,
+      "zones": "Zone 1-3",
+      "description": "10 minutes Zone 1, 10 minutes Zone 2, 20 minutes Zone 3, 10 minutes Zone 2, 10 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RT16.FIT"
+    },
+    "RTa1": {
+      "name": "Running Taper 1",
+      "sport": "run",
+      "intensity": "low",
+      "duration_minutes": 10,
+      "zones": "Zone 1-4",
+      "description": "5 minutes Zone 1, 6 x (20\" Zone 4/40\" rest)",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RTa1.FIT"
+    },
+    "RRe1": {
+      "name": "Running Recovery 1",
+      "sport": "run",
+      "intensity": "low",
+      "duration_minutes": 20,
+      "zones": "Zone 1-1",
+      "description": "20 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RRe1.FIT"
+    },
+    "RRe2": {
+      "name": "Running Recovery 2",
+      "sport": "run",
+      "intensity": "low",
+      "duration_minutes": 25,
+      "zones": "Zone 1-1",
+      "description": "25 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RRe2.FIT"
+    },
+    "RRe4": {
+      "name": "Running Recovery 4",
+      "sport": "run",
+      "intensity": "low",
+      "duration_minutes": 35,
+      "zones": "Zone 1-1",
+      "description": "35 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RRe4.FIT"
+    },
+    "RRe8": {
+      "name": "Running Recovery 8",
+      "sport": "run",
+      "intensity": "low",
+      "duration_minutes": 55,
+      "zones": "Zone 1-1",
+      "description": "55 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RRe8.FIT"
+    },
+    "RF1": {
+      "name": "Running Foundation 1",
+      "sport": "run",
+      "intensity": "low",
+      "duration_minutes": 20,
+      "zones": "Zone 1-2",
+      "description": "5 minutes in Zone 1, 10 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RF1.FIT"
+    },
+    "RF2": {
+      "name": "Running Foundation 2",
+      "sport": "run",
+      "intensity": "low",
+      "duration_minutes": 25,
+      "zones": "Zone 1-2",
+      "description": "5 minutes in Zone 1, 15 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RF2.FIT"
+    },
+    "RF4": {
+      "name": "Running Foundation 4",
+      "sport": "run",
+      "intensity": "low",
+      "duration_minutes": 35,
+      "zones": "Zone 1-2",
+      "description": "5 minutes in Zone 1, 25 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RF4.FIT"
+    },
+    "RF7": {
+      "name": "Running Foundation 7",
+      "sport": "run",
+      "intensity": "low",
+      "duration_minutes": 50,
+      "zones": "Zone 1-2",
+      "description": "5 minutes in Zone 1, 40 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RF7.FIT"
+    },
+    "RF8": {
+      "name": "Running Foundation 8",
+      "sport": "run",
+      "intensity": "low",
+      "duration_minutes": 55,
+      "zones": "Zone 1-2",
+      "description": "5 minutes in Zone 1, 45 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RF8.FIT"
+    },
+    "RF13": {
+      "name": "Running Foundation 13",
+      "sport": "run",
+      "intensity": "low",
+      "duration_minutes": 70,
+      "zones": "Zone 1-2",
+      "description": "5 minutes in Zone 1, 60 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RF13.FIT"
+    },
+    "RF16": {
+      "name": "Running Foundation 16",
+      "sport": "run",
+      "intensity": "low",
+      "duration_minutes": 105,
+      "zones": "Zone 1-2",
+      "description": "5 minutes in Zone 1, 95 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RF16.FIT"
+    },
+    "RAe1": {
+      "name": "Running Aerobic 1",
+      "sport": "run",
+      "intensity": "low",
+      "duration_minutes": 60,
+      "zones": "Zone 1-2",
+      "description": "10 minutes Zone 1, 3 x (10 minutes Zone 2/3 minutes Zone 1) 10 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RAe1.FIT"
+    },
+    "RAe2": {
+      "name": "Running Aerobic 2",
+      "sport": "run",
+      "intensity": "low",
+      "duration_minutes": 90,
+      "zones": "Zone 1-2",
+      "description": "15 minutes Zone 1, 3 x (10 minutes Zone 2/3 minutes Zone 1) 35 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RAe2.FIT"
+    },
+    "RAe3": {
+      "name": "Running Aerobic 3",
+      "sport": "run",
+      "intensity": "low",
+      "duration_minutes": 75,
+      "zones": "Zone 1-2",
+      "description": "12 minutes Zone 1, 4 x (10 minutes Zone 2/3 minutes Zone 1) 12 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RAe3.FIT"
+    },
+    "RAe4": {
+      "name": "Running Aerobic 4",
+      "sport": "run",
+      "intensity": "low",
+      "duration_minutes": 90,
+      "zones": "Zone 1-2",
+      "description": "15 minutes Zone 1, 3 x (15 minutes Zone 2/5 minutes Zone 1) 15 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RAe4.FIT"
+    },
+    "RAe5": {
+      "name": "Running Aerobic 5",
+      "sport": "run",
+      "intensity": "low",
+      "duration_minutes": 90,
+      "zones": "Zone 1-2",
+      "description": "10 minutes Zone 1, 4 x (15 minutes Zone 2/5 minutes Zone 1)",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RAe5.FIT"
+    },
+    "RAe6": {
+      "name": "Running Aerobic 6",
+      "sport": "run",
+      "intensity": "low",
+      "duration_minutes": 105,
+      "zones": "Zone 1-2",
+      "description": "10 minutes Zone 1, 4 x (15 minutes Zone 2/5 minutes Zone 1) 15 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RAe6.FIT"
+    },
+    "RAe7": {
+      "name": "Running Aerobic 7",
+      "sport": "run",
+      "intensity": "low",
+      "duration_minutes": 120,
+      "zones": "Zone 1-2",
+      "description": "10 minutes Zone 1, 4 x (15 minutes Zone 2/5 minutes Zone 1) 30 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RAe7.FIT"
+    },
+    "RAe8": {
+      "name": "Running Aerobic 8",
+      "sport": "run",
+      "intensity": "low",
+      "duration_minutes": 135,
+      "zones": "Zone 1-2",
+      "description": "10 minutes Zone 1, 4 x (15 minutes Zone 2/5 minutes Zone 1) 45 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RAe8.FIT"
+    },
+    "RAe9": {
+      "name": "Running Aerobic 9",
+      "sport": "run",
+      "intensity": "low",
+      "duration_minutes": 150,
+      "zones": "Zone 1-2",
+      "description": "10 minutes Zone 1, 4 x (15 minutes Zone 2/5 minutes Zone 1) 60 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RAe9.FIT"
+    },
+    "RAe10": {
+      "name": "Running Aerobic 10",
+      "sport": "run",
+      "intensity": "low",
+      "duration_minutes": 105,
+      "zones": "Zone 1-2",
+      "description": "10 minutes Zone 1, 3 x (15 minutes Zone 2/5 minutes Zone 1) 35 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RAe10.FIT"
+    },
+    "RAe11": {
+      "name": "Running Aerobic 11",
+      "sport": "run",
+      "intensity": "low",
+      "duration_minutes": 120,
+      "zones": "Zone 1-2",
+      "description": "10 minutes Zone 1, 3 x (15 minutes Zone 2/5 minutes Zone 1) 50 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RAe11.FIT"
+    },
+    "RAe14": {
+      "name": "Running Aerobic 14",
+      "sport": "run",
+      "intensity": "low",
+      "duration_minutes": 120,
+      "zones": "Zone 1-2",
+      "description": "10 minutes Zone 1, 3 x (4 minutes Zone 2/1 minutes Zone 1) 95 minutes Zone 2",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RAe14.FIT"
+    },
+    "RAe15": {
+      "name": "Running Aerobic 15",
+      "sport": "run",
+      "intensity": "low",
+      "duration_minutes": 130,
+      "zones": "Zone 1-2",
+      "description": "10 minutes Zone 1, 3 x (5 minutes Zone 2/1 minutes Zone 1) 102 minutes Zone 2",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RAe15.FIT"
+    },
+    "RAe16": {
+      "name": "Running Aerobic 16",
+      "sport": "run",
+      "intensity": "low",
+      "duration_minutes": 140,
+      "zones": "Zone 1-2",
+      "description": "10 minutes Zone 1, 3 x (6 minutes Zone 2/1 minutes Zone 1) 109 minutes Zone 2",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RAe16.FIT"
+    },
+    "RAe17": {
+      "name": "Running Aerobic 17",
+      "sport": "run",
+      "intensity": "low",
+      "duration_minutes": 150,
+      "zones": "Zone 1-2",
+      "description": "10 minutes Zone 1, 3 x (7 minutes Zone 2/1 minutes Zone 1) 116 minutes Zone 2",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RAe17.FIT"
+    },
+    "RAe19": {
+      "name": "Running Aerobic 19",
+      "sport": "run",
+      "intensity": "low",
+      "duration_minutes": 170,
+      "zones": "Zone 1-2",
+      "description": "10 minutes Zone 1, 3 x (9 minutes Zone 2/1 minutes Zone 1) 130 minutes Zone 2",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RAe19.FIT"
+    },
+    "RAe21": {
+      "name": "Running Aerobic 21",
+      "sport": "run",
+      "intensity": "low",
+      "duration_minutes": 165,
+      "zones": "Zone 1-2",
+      "description": "10 minutes Zone 1, 4 x (15 minutes Zone 2/1 minutes Zone 1) 90 minutes Zone 2",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RAe21.FIT"
+    },
+    "RAe22": {
+      "name": "Running Aerobic 22",
+      "sport": "run",
+      "intensity": "low",
+      "duration_minutes": 46,
+      "zones": "Zone 1-2",
+      "description": "10 minutes Zone 1, 3 x (10 minutes Zone 2/2 minutes Zone 1)",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RAe22.FIT"
+    },
+    "RL1": {
+      "name": "Running Long 1",
+      "sport": "run",
+      "intensity": "low",
+      "duration_minutes": null,
+      "zones": "Zone 1-2",
+      "description": "1 mile Zone 1, 4.5 miles Zone 2, 0.5 mile Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RL1.FIT"
+    },
+    "RL2": {
+      "name": "Running Long 2",
+      "sport": "run",
+      "intensity": "low",
+      "duration_minutes": null,
+      "zones": "Zone 1-2",
+      "description": "1 mile Zone 1, 5.5 miles Zone 2, 0.5 mile Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RL2.FIT"
+    },
+    "RL3": {
+      "name": "Running Long 3",
+      "sport": "run",
+      "intensity": "low",
+      "duration_minutes": null,
+      "zones": "Zone 1-2",
+      "description": "1 mile Zone 1, 6.5 miles Zone 2, 0.5 mile Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RL3.FIT"
+    },
+    "RL4": {
+      "name": "Running Long 4",
+      "sport": "run",
+      "intensity": "low",
+      "duration_minutes": null,
+      "zones": "Zone 1-2",
+      "description": "1 mile Zone 1, 7.5 miles Zone 2, 0.5 mile Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RL4.FIT"
+    },
+    "RL5": {
+      "name": "Running Long 5",
+      "sport": "run",
+      "intensity": "low",
+      "duration_minutes": null,
+      "zones": "Zone 1-2",
+      "description": "1 mile Zone 1, 8.5 miles Zone 2, 0.5 mile Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RL5.FIT"
+    },
+    "RL6": {
+      "name": "Running Long 6",
+      "sport": "run",
+      "intensity": "low",
+      "duration_minutes": null,
+      "zones": "Zone 1-2",
+      "description": "1 mile Zone 1, 9.5 miles Zone 2, 0.5 mile Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RL6.FIT"
+    },
+    "RL7": {
+      "name": "Running Long 7",
+      "sport": "run",
+      "intensity": "low",
+      "duration_minutes": null,
+      "zones": "Zone 1-2",
+      "description": "1 mile Zone 1, 10.5 miles Zone 2, 0.5 mile Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RL7.FIT"
+    },
+    "RL8": {
+      "name": "Running Long 8",
+      "sport": "run",
+      "intensity": "low",
+      "duration_minutes": null,
+      "zones": "Zone 1-2",
+      "description": "1 mile Zone 1, 11.5 miles Zone 2, 0.5 mile Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RL8.FIT"
+    },
+    "RL9": {
+      "name": "Running Long 9",
+      "sport": "run",
+      "intensity": "low",
+      "duration_minutes": null,
+      "zones": "Zone 1-2",
+      "description": "1 mile Zone 1, 12.5 miles Zone 2, 0.5 mile Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RL9.FIT"
+    },
+    "RL10": {
+      "name": "Running Long 10",
+      "sport": "run",
+      "intensity": "low",
+      "duration_minutes": null,
+      "zones": "Zone 1-2",
+      "description": "1 mile Zone 1, 13.5 miles Zone 2, 0.5 mile Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RL10.FIT"
+    },
+    "RL11": {
+      "name": "Running Long 11",
+      "sport": "run",
+      "intensity": "low",
+      "duration_minutes": null,
+      "zones": "Zone 1-2",
+      "description": "1 mile Zone 1, 14.5 miles Zone 2, 0.5 mile Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RL11.FIT"
+    },
+    "RL12": {
+      "name": "Running Long 12",
+      "sport": "run",
+      "intensity": "low",
+      "duration_minutes": null,
+      "zones": "Zone 1-2",
+      "description": "1 mile Zone 1, 15.5 miles Zone 2, 0.5 mile Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RL12.FIT"
+    },
+    "RL13": {
+      "name": "Running Long 13",
+      "sport": "run",
+      "intensity": "low",
+      "duration_minutes": null,
+      "zones": "Zone 1-2",
+      "description": "1 mile Zone 1, 16.5 miles Zone 2, 0.5 mile Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RL13.FIT"
+    },
+    "RL14": {
+      "name": "Running Long 14",
+      "sport": "run",
+      "intensity": "low",
+      "duration_minutes": null,
+      "zones": "Zone 1-2",
+      "description": "1 mile Zone 1, 17.5 miles Zone 2, 0.5 mile Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RL14.FIT"
+    },
+    "RL15": {
+      "name": "Running Long 15",
+      "sport": "run",
+      "intensity": "low",
+      "duration_minutes": null,
+      "zones": "Zone 1-2",
+      "description": "1 mile Zone 1, 18.5 miles Zone 2, 0.5 mile Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RL15.FIT"
+    },
+    "RCI2": {
+      "name": "Running Cruise Intervals 2",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": 52,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 4 x (5 minutes Zone 3/3 minutes Zone 1) 5 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RCI2.FIT"
+    },
+    "RCI3": {
+      "name": "Running Cruise Intervals 3",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": 64,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 4 x (8 minutes Zone 3/3 minutes Zone 1) 5 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RCI3.FIT"
+    },
+    "RCI4": {
+      "name": "Running Cruise Intervals 4",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": 72,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 4 x (10 minutes Zone 3/3 minutes Zone 1) 5 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RCI4.FIT"
+    },
+    "RCI5": {
+      "name": "Running Cruise Intervals 5",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": 80,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 4 x (12 minutes Zone 3/3 minutes Zone 1) 5 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RCI5.FIT"
+    },
+    "RCI6": {
+      "name": "Running Cruise Intervals 6",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": 92,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 4 x (15 minutes Zone 3/3 minutes Zone 1) 5 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RCI6.FIT"
+    },
+    "RCI7": {
+      "name": "Running Cruise Intervals 7",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": 70,
+      "zones": "Zone 1-3",
+      "description": "15 minutes Zone 1, 11 minutes Zone 2, 2 x (10 minutes Zone 3/4 minutes Zone 1) 11 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RCI7.FIT"
+    },
+    "RCI8": {
+      "name": "Running Cruise Intervals 8",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": 70,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 10 minutes Zone 2, 4 x (6 minutes Zone 3/3 minutes Zone 1) 14 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RCI8.FIT"
+    },
+    "RCI9": {
+      "name": "Running Cruise Intervals 9",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": 74,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 10 minutes Zone 2, 4 x (7 minutes Zone 3/3 minutes Zone 1) 14 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RCI9.FIT"
+    },
+    "RCI11": {
+      "name": "Running Cruise Intervals 11",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": 53,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 6 minutes Zone 2, 4 x (6 minutes Zone 3/2 minutes Zone 1) 5 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RCI11.FIT"
+    },
+    "RCI14": {
+      "name": "Running Cruise Intervals 14",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": 71,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 10 minutes Zone 2, 4 x (10 minutes Zone 3/4 minutes Zone 1)",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RCI14.FIT"
+    },
+    "RCI15": {
+      "name": "Running Cruise Intervals 15",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": 38,
+      "zones": "Zone 1-3",
+      "description": "15 minutes Zone 1, 3 x (4 minutes Zone 3/2 minutes Zone 1) 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RCI15.FIT"
+    },
+    "RT1": {
+      "name": "Running Tempo 1",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": 35,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 15 minutes Zone 3, 5 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RT1.FIT"
+    },
+    "RT2": {
+      "name": "Running Tempo 2",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": 38,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 18 minutes Zone 3, 5 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RT2.FIT"
+    },
+    "RT3": {
+      "name": "Running Tempo 3",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": 40,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 20 minutes Zone 3, 5 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RT3.FIT"
+    },
+    "RT5": {
+      "name": "Running Tempo 5",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": 48,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 28 minutes Zone 3, 5 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RT5.FIT"
+    },
+    "RT6": {
+      "name": "Running Tempo 6",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": 50,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 30 minutes Zone 3, 5 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RT6.FIT"
+    },
+    "RT7": {
+      "name": "Running Tempo 7",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": 52,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 32 minutes Zone 3, 5 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RT7.FIT"
+    },
+    "RT8": {
+      "name": "Running Tempo 8",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": 56,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 36 minutes Zone 3, 5 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RT8.FIT"
+    },
+    "RT9": {
+      "name": "Running Tempo 9",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": 60,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 40 minutes Zone 3, 5 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RT9.FIT"
+    },
+    "RT10": {
+      "name": "Running Tempo 10",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": 65,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 45 minutes Zone 3, 5 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RT10.FIT"
+    },
+    "RT11": {
+      "name": "Running Tempo 11",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": 50,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 15 minutes Zone 2, 10 minutes Zone 3, 15 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RT11.FIT"
+    },
+    "RT12": {
+      "name": "Running Tempo 12",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": 55,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 15 minutes Zone 2, 10 minutes Zone 3, 20 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RT12.FIT"
+    },
+    "RT13": {
+      "name": "Running Tempo 13",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": 50,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 10 minutes Zone 2, 20 minutes Zone 3, 10 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RT13.FIT"
+    },
+    "RT14": {
+      "name": "Running Tempo 14",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": 54,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 10 minutes Zone 2, 24 minutes Zone 3, 10 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RT14.FIT"
+    },
+    "RT15": {
+      "name": "Running Tempo 15",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": 62,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 10 minutes Zone 2, 32 minutes Zone 3, 10 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RT15.FIT"
+    },
+    "RT17": {
+      "name": "Running Tempo 17",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": 76,
+      "zones": "Zone 1-3",
+      "description": "10 minutes Zone 1, 10 minutes Zone 2, 36 minutes Zone 3, 10 minutes Zone 2, 10 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RT17.FIT"
+    },
+    "RT18": {
+      "name": "Running Tempo 18",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": 70,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 10 minutes Zone 2, 40 minutes Zone 3, 10 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RT18.FIT"
+    },
+    "RT19": {
+      "name": "Running Tempo 19",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": 90,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 10 minutes Zone 2, 20 minutes Zone 3, 50 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RT19.FIT"
+    },
+    "RT20": {
+      "name": "Running Tempo 20",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": 90,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 10 minutes Zone 2, 25 minutes Zone 3, 50 Minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RT20.FIT"
+    },
+    "RFF1": {
+      "name": "Running Fast Finish 1",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": 25,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 15 minutes Zone 2, 5 minutes Zone 3",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RFF1.FIT"
+    },
+    "RFF2": {
+      "name": "Running Fast Finish 2",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": 30,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 20 minutes Zone 2, 5 minutes Zone 3",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RFF2.FIT"
+    },
+    "RFF3": {
+      "name": "Running Fast Finish 3",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": 30,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 15 minutes Zone 2, 10 minutes Zone 3",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RFF3.FIT"
+    },
+    "RFF5": {
+      "name": "Running Fast Finish 5",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": 42,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 25 minutes Zone 2, 12 minutes Zone 3",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RFF5.FIT"
+    },
+    "RFF6": {
+      "name": "Running Fast Finish 6",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": 47,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 30 minutes Zone 2, 12 minutes Zone 3",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RFF6.FIT"
+    },
+    "RFF7": {
+      "name": "Running Fast Finish 7",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": 52,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 35 minutes Zone 2, 12 minutes Zone 3",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RFF7.FIT"
+    },
+    "RFF8": {
+      "name": "Running Fast Finish 8",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": 55,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 35 minutes Zone 2, 15 minutes Zone 3",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RFF8.FIT"
+    },
+    "RFF9": {
+      "name": "Running Fast Finish 9",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": 60,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 40 minutes Zone 2, 15 minutes Zone 3",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RFF9.FIT"
+    },
+    "RFF10": {
+      "name": "Running Fast Finish 10",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": 65,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 45 minutes Zone 2, 15 minutes Zone 3",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RFF10.FIT"
+    },
+    "RFF11": {
+      "name": "Running Fast Finish 11",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": 60,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 45 minutes Zone 2, 10 minutes Zone 3",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RFF11.FIT"
+    },
+    "RLFF1": {
+      "name": "Running Long Fast Finish 1",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": null,
+      "zones": "Zone 1-3",
+      "description": "0.5 mile Zone 1, 8.5 miles Zone 2, 1 mile Zone 3",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RLFF1.FIT"
+    },
+    "RLFF2": {
+      "name": "Running Long Fast Finish 2",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": null,
+      "zones": "Zone 1-3",
+      "description": "0.5 mile Zone 1, 10.5 miles Zone 2, 1 mile Zone 3",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RLFF2.FIT"
+    },
+    "RLFF3": {
+      "name": "Running Long Fast Finish 3",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": null,
+      "zones": "Zone 1-3",
+      "description": "0.5 mile Zone 1, 12 miles Zone 2, 1.5 miles Zone 3",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RLFF3.FIT"
+    },
+    "RLFF4": {
+      "name": "Running Long Fast Finish 4",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": null,
+      "zones": "Zone 1-3",
+      "description": "0.5 mile Zone 1, 14 miles Zone 2, 1.5 miles Zone 3",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RLFF4.FIT"
+    },
+    "RLFF5": {
+      "name": "Running Long Fast Finish 5",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": null,
+      "zones": "Zone 1-3",
+      "description": "0.5 mile Zone 1, 15.5 miles Zone 2, 2 miles Zone 3",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RLFF5.FIT"
+    },
+    "RLFF6": {
+      "name": "Running Long Fast Finish 6",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": null,
+      "zones": "Zone 1-3",
+      "description": "0.5 mile Zone 1, 17.5 miles Zone 2, 2 miles Zone 3",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RLFF6.FIT"
+    },
+    "RHR1": {
+      "name": "Running Hill Repeats 1",
+      "sport": "run",
+      "intensity": "high",
+      "duration_minutes": 45,
+      "zones": "Zone 1-5",
+      "description": "5 minutes Zone 1, 32 minutes Zone 2, 4 x (30 seconds Zone 5 uphill/90 seconds Zone 1)",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RHR1.FIT"
+    },
+    "RHR2": {
+      "name": "Running Hill Repeats 2",
+      "sport": "run",
+      "intensity": "high",
+      "duration_minutes": 27,
+      "zones": "Zone 1-5",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 6 x (30 seconds Zone 5 uphill/90 seconds Zone 1) 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RHR2.FIT"
+    },
+    "RHR3": {
+      "name": "Running Hill Repeats 3",
+      "sport": "run",
+      "intensity": "high",
+      "duration_minutes": 31,
+      "zones": "Zone 1-5",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 8 x (30 seconds Zone 5 uphill/90 seconds Zone 1) 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RHR3.FIT"
+    },
+    "RHR4": {
+      "name": "Running Hill Repeats 4",
+      "sport": "run",
+      "intensity": "high",
+      "duration_minutes": 33,
+      "zones": "Zone 1-5",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 6 x (1 minute Zone 5 uphill/2 minutes Zone 1) 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RHR4.FIT"
+    },
+    "RHR5": {
+      "name": "Running Hill Repeats 5",
+      "sport": "run",
+      "intensity": "high",
+      "duration_minutes": 35,
+      "zones": "Zone 1-5",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 10 x (30 seconds Zone 5 uphill/90 seconds Zone 1) 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RHR5.FIT"
+    },
+    "RHR6": {
+      "name": "Running Hill Repeats 6",
+      "sport": "run",
+      "intensity": "high",
+      "duration_minutes": 39,
+      "zones": "Zone 1-5",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 12 x (30 seconds Zone 5 uphill/90 seconds Zone 1) 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RHR6.FIT"
+    },
+    "RHR7": {
+      "name": "Running Hill Repeats 7",
+      "sport": "run",
+      "intensity": "high",
+      "duration_minutes": 39,
+      "zones": "Zone 1-5",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 8 x (1 minute Zone 5 uphill/2 minutes Zone 1) 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RHR7.FIT"
+    },
+    "RHR8": {
+      "name": "Running Hill Repeats 8",
+      "sport": "run",
+      "intensity": "high",
+      "duration_minutes": 39,
+      "zones": "Zone 1-5",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 6 x (1.5 minutes Zone 5 uphill/2.5 minutes Zone 1) 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RHR8.FIT"
+    },
+    "RHR10": {
+      "name": "Running Hill Repeats 10",
+      "sport": "run",
+      "intensity": "high",
+      "duration_minutes": 47,
+      "zones": "Zone 1-5",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 8 x (1.5 minutes Zone 5 uphill/2.5 minutes Zone 1) 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RHR10.FIT"
+    },
+    "RHR11": {
+      "name": "Running Hill Repeats 11",
+      "sport": "run",
+      "intensity": "high",
+      "duration_minutes": 51,
+      "zones": "Zone 1-5",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 12 x (1 minute Zone 5 uphill/2 minutes Zone 1) 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RHR11.FIT"
+    },
+    "RHR12": {
+      "name": "Running Hill Repeats 12",
+      "sport": "run",
+      "intensity": "high",
+      "duration_minutes": 55,
+      "zones": "Zone 1-5",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 10 x (1.5 minutes Zone 5 uphill/2.5 minutes Zone 1) 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RHR12.FIT"
+    },
+    "RHR13": {
+      "name": "Running Hill Repeats 13",
+      "sport": "run",
+      "intensity": "high",
+      "duration_minutes": 63,
+      "zones": "Zone 1-5",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 12 x (1.5 minutes Zone 5 uphill/2.5 minutes Zone 1) 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RHR13.FIT"
+    },
+    "RHR14": {
+      "name": "Running Hill Repeats 14",
+      "sport": "run",
+      "intensity": "high",
+      "duration_minutes": 50,
+      "zones": "Zone 1-5",
+      "description": "5 minutes Zone 1, 20 minutes Zone 2, 10 x (30 seconds Zone 5 uphill/90 seconds Zone 1) 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RHR14.FIT"
+    },
+    "RMI1": {
+      "name": "Running Mixed Intervals 1",
+      "sport": "run",
+      "intensity": "high",
+      "duration_minutes": 36,
+      "zones": "Zone 1-5",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 1 minute Zone 5, 2 minutes Zone 1, 3 minutes Zone 4, 2 minutes Zone 1, 5 minutes Zone 3, 2 minutes Zone 1, 3 minutes Zone 4, 2 minutes Zone 1, 1 minute Zone 5, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RMI1.FIT"
+    },
+    "RMI2": {
+      "name": "Running Mixed Intervals 2",
+      "sport": "run",
+      "intensity": "high",
+      "duration_minutes": 46,
+      "zones": "Zone 1-5",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 1.5 minute Zone 5, 2 minutes Zone 1, 5 minutes Zone 4, 2 minutes Zone 1, 10 minutes Zone 3, 2 minutes Zone 1, 5 minutes Zone 4, 2 minutes Zone 1, 1.5 minute Zone 5, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RMI2.FIT"
+    },
+    "RMI3": {
+      "name": "Running Mixed Intervals 3",
+      "sport": "run",
+      "intensity": "high",
+      "duration_minutes": 59,
+      "zones": "Zone 1-5",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 2 x (1 minute Zone 5/2 minutes Zone 1), 2 x (3 minutes Zone 4/2 minutes Zone 1), 10 minutes Zone 3, 2 minutes Zone 1, 2 x (3 minutes Zone 4/2 minutes Zone 1), 2 x (1 minute Zone 5/2 minutes Zone 1), 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RMI3.FIT"
+    },
+    "RMI4": {
+      "name": "Running Mixed Intervals 4",
+      "sport": "run",
+      "intensity": "high",
+      "duration_minutes": 71,
+      "zones": "Zone 1-5",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 2 x (1.5 minutes Zone 5/2.5 minutes Zone 1), 2 x (5 minutes Zone 4/2 minutes Zone 1), 10 minutes Zone 3, 2 minutes Zone 1, 2 x (1.5 minutes Zone 5/2.5 minutes Zone 1), 2 x (5 minutes Zone 4/2 minutes Zone 1), 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RMI4.FIT"
+    },
+    "RAn1": {
+      "name": "Running Anaerobic 1",
+      "sport": "run",
+      "intensity": "high",
+      "duration_minutes": 60,
+      "zones": "Zone 1-4",
+      "description": "15 minutes Zone 1, 4 x (2.5 minutes Zone 4/5 minutes Zone 1) 15 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RAn1.FIT"
+    },
+    "RAn2": {
+      "name": "Running Anaerobic 2",
+      "sport": "run",
+      "intensity": "high",
+      "duration_minutes": 60,
+      "zones": "Zone 1-4",
+      "description": "15 minutes Zone 1, 5 x (2.5 minutes Zone 4/5 minutes Zone 1) 7.5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RAn2.FIT"
+    },
+    "RAn3": {
+      "name": "Running Anaerobic 3",
+      "sport": "run",
+      "intensity": "high",
+      "duration_minutes": 60,
+      "zones": "Zone 1-4",
+      "description": "15 minutes Zone 1, 6 x (2.5 minutes Zone 4/5 minutes Zone 1)",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RAn3.FIT"
+    },
+    "RAn5": {
+      "name": "Running Anaerobic 5",
+      "sport": "run",
+      "intensity": "high",
+      "duration_minutes": 45,
+      "zones": "Zone 1-4",
+      "description": "15 minutes Zone 1, 3 x (2.5 minutes Zone 4/5 minutes Zone 1) 7 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RAn5.FIT"
+    },
+    "RSI1": {
+      "name": "Running Speed Intervals 1",
+      "sport": "run",
+      "intensity": "high",
+      "duration_minutes": 33,
+      "zones": "Zone 1-5",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 6 x (1 minute Zone 5/2 minutes Zone 1) 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RSI1.FIT"
+    },
+    "RSI2": {
+      "name": "Running Speed Intervals 2",
+      "sport": "run",
+      "intensity": "high",
+      "duration_minutes": 39,
+      "zones": "Zone 1-5",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 8 x (1 minute Zone 5/2 minutes Zone 1) 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RSI2.FIT"
+    },
+    "RSI3": {
+      "name": "Running Speed Intervals 3",
+      "sport": "run",
+      "intensity": "high",
+      "duration_minutes": 39,
+      "zones": "Zone 1-5",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 6 x (1.5 minutes Zone 5/2.5 minutes Zone 1) 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RSI3.FIT"
+    },
+    "RSI4": {
+      "name": "Running Speed Intervals 4",
+      "sport": "run",
+      "intensity": "high",
+      "duration_minutes": 45,
+      "zones": "Zone 1-5",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 10 x (1 minute Zone 5/2 minutes Zone 1) 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RSI4.FIT"
+    },
+    "RSI5": {
+      "name": "Running Speed Intervals 5",
+      "sport": "run",
+      "intensity": "high",
+      "duration_minutes": 47,
+      "zones": "Zone 1-5",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 8 x (1.5 minutes Zone 5/2.5 minutes Zone 1) 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RSI5.FIT"
+    },
+    "RSI6": {
+      "name": "Running Speed Intervals 6",
+      "sport": "run",
+      "intensity": "high",
+      "duration_minutes": 51,
+      "zones": "Zone 1-5",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 12 x (1 minute Zone 5/2 minutes Zone 1) 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RSI6.FIT"
+    },
+    "RSI7": {
+      "name": "Running Speed Intervals 7",
+      "sport": "run",
+      "intensity": "high",
+      "duration_minutes": 55,
+      "zones": "Zone 1-5",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 10 x (1.5 minutes Zone 5/2.5 minutes Zone 1) 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RSI7.FIT"
+    },
+    "RSI8": {
+      "name": "Running Speed Intervals 8",
+      "sport": "run",
+      "intensity": "high",
+      "duration_minutes": 63,
+      "zones": "Zone 1-5",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 12 x (1.5 minutes Zone 5/2.5 minutes Zone 1) 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RSI8.FIT"
+    },
+    "RSI9": {
+      "name": "Running Speed Intervals 9",
+      "sport": "run",
+      "intensity": "high",
+      "duration_minutes": 60,
+      "zones": "Zone 1-5",
+      "description": "5 minutes Zone 1, 26 minutes Zone 2, 8 x (1 minutes Zone 5/2 minutes Zone 1) 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RSI9.FIT"
+    },
+    "RSI10": {
+      "name": "Running Speed Intervals 10",
+      "sport": "run",
+      "intensity": "high",
+      "duration_minutes": 44,
+      "zones": "Zone 1-5",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 8 x (1 minutes Zone 5/2 minutes Zone 1) 10 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RSI10.FIT"
+    },
+    "RSI11": {
+      "name": "Running Speed Intervals 11",
+      "sport": "run",
+      "intensity": "high",
+      "duration_minutes": 60,
+      "zones": "Zone 1-5",
+      "description": "5 minutes Zone 1, 15 minutes Zone 2, 10 x (1 minutes Zone 5/2 minutes Zone 1) 10 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RSI11.FIT"
+    },
+    "RLI1": {
+      "name": "Running Long Intervals 1",
+      "sport": "run",
+      "intensity": "high",
+      "duration_minutes": 30,
+      "zones": "Zone 1-4",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 3 x (3 minutes Zone 4/2 minutes Zone 1) 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RLI1.FIT"
+    },
+    "RLI2": {
+      "name": "Running Long Intervals 2",
+      "sport": "run",
+      "intensity": "high",
+      "duration_minutes": 35,
+      "zones": "Zone 1-4",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 4 x (3 minutes Zone 4/2 minutes Zone 1) 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RLI2.FIT"
+    },
+    "RLI3": {
+      "name": "Running Long Intervals 3",
+      "sport": "run",
+      "intensity": "high",
+      "duration_minutes": 39,
+      "zones": "Zone 1-4",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 3 x (5 minutes Zone 4/3 minutes Zone 1) 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RLI3.FIT"
+    },
+    "RLI4": {
+      "name": "Running Long Intervals 4",
+      "sport": "run",
+      "intensity": "high",
+      "duration_minutes": 40,
+      "zones": "Zone 1-4",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 5 x (3 minutes Zone 4/2 minutes Zone 1) 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RLI4.FIT"
+    },
+    "RLI5": {
+      "name": "Running Long Intervals 5",
+      "sport": "run",
+      "intensity": "high",
+      "duration_minutes": 45,
+      "zones": "Zone 1-4",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 6 x (3 minutes Zone 4/2 minutes Zone 1) 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RLI5.FIT"
+    },
+    "RLI6": {
+      "name": "Running Long Intervals 6",
+      "sport": "run",
+      "intensity": "high",
+      "duration_minutes": 47,
+      "zones": "Zone 1-4",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 4 x (5 minutes Zone 4/3 minutes Zone 1) 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RLI6.FIT"
+    },
+    "RLI7": {
+      "name": "Running Long Intervals 7",
+      "sport": "run",
+      "intensity": "high",
+      "duration_minutes": 55,
+      "zones": "Zone 1-4",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 5 x (5 minutes Zone 4/3 minutes Zone 1) 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RLI7.FIT"
+    },
+    "RLI8": {
+      "name": "Running Long Intervals 8",
+      "sport": "run",
+      "intensity": "high",
+      "duration_minutes": 63,
+      "zones": "Zone 1-4",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 6 x (5 minutes Zone 4/3 minutes Zone 1) 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RLI8.FIT"
+    },
+    "RLI9": {
+      "name": "Running Long Intervals 9",
+      "sport": "run",
+      "intensity": "high",
+      "duration_minutes": 71,
+      "zones": "Zone 1-4",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 7 x (5 minutes Zone 4/3 minutes Zone 1) 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RLI9.FIT"
+    },
+    "RLI10": {
+      "name": "Running Long Intervals 10",
+      "sport": "run",
+      "intensity": "high",
+      "duration_minutes": 79,
+      "zones": "Zone 1-4",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 8 x (5 minutes Zone 4/3 minutes Zone 1) 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RLI10.FIT"
+    },
+    "RLI11": {
+      "name": "Running Long Intervals 11",
+      "sport": "run",
+      "intensity": "high",
+      "duration_minutes": 50,
+      "zones": "Zone 1-4",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 5 x (4 minutes Zone 4/2 minutes Zone 1) 5 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RLI11.FIT"
+    },
+    "RLI12": {
+      "name": "Running Long Intervals 12",
+      "sport": "run",
+      "intensity": "high",
+      "duration_minutes": 44,
+      "zones": "Zone 1-4",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 4 x (4 minutes Zone 4/2 minutes Zone 1) 5 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RLI12.FIT"
+    },
+    "RSP2": {
+      "name": "Running Speed Play 2",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": 30,
+      "zones": "Zone 1-4",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 3 x (2 minutes Zone 4/2 minutes Zone 1) 8 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RSP2.FIT"
+    },
+    "RSP3": {
+      "name": "Running Speed Play 3",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": 30,
+      "zones": "Zone 1-4",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 5 x (1 minute Zone 4/2 minutes Zone 1) 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RSP3.FIT"
+    },
+    "RSP4": {
+      "name": "Running Speed Play 4",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": 31,
+      "zones": "Zone 1-4",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 4 x (2 minutes Zone 4/2 minutes Zone 1) 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RSP4.FIT"
+    },
+    "RSP6": {
+      "name": "Running Speed Play 6",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": 35,
+      "zones": "Zone 1-4",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 5 x (2 minutes Zone 4/2 minutes Zone 1) 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RSP6.FIT"
+    },
+    "RSP7": {
+      "name": "Running Speed Play 7",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": 36,
+      "zones": "Zone 1-4",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 7 x (1 minute Zone 4/2 minutes Zone 1) 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RSP7.FIT"
+    },
+    "RSP8": {
+      "name": "Running Speed Play 8",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": 39,
+      "zones": "Zone 1-4",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 6 x (2 minutes Zone 4/2 minutes Zone 1) 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RSP8.FIT"
+    },
+    "RSP10": {
+      "name": "Running Speed Play 10",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": 42,
+      "zones": "Zone 1-4",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 9 x (1 minute Zone 4/2 minutes Zone 1) 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RSP10.FIT"
+    },
+    "RSP11": {
+      "name": "Running Speed Play 11",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": 43,
+      "zones": "Zone 1-4",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 7 x (2 minutes Zone 4/2 minutes Zone 1) 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RSP11.FIT"
+    },
+    "RSP12": {
+      "name": "Running Speed Play 12",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": 45,
+      "zones": "Zone 1-4",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 10 x (1 minute Zone 4/2 minutes Zone 1) 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RSP12.FIT"
+    },
+    "RSP13": {
+      "name": "Running Speed Play 13",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": 47,
+      "zones": "Zone 1-4",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 8 x (2 minutes Zone 4/2 minutes Zone 1) 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RSP13.FIT"
+    },
+    "RSP14": {
+      "name": "Running Speed Play 14",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": 51,
+      "zones": "Zone 1-4",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 9 x (2 minutes Zone 4/2 minutes Zone 1) 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RSP14.FIT"
+    },
+    "RSP15": {
+      "name": "Running Speed Play 15",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": 51,
+      "zones": "Zone 1-4",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 12 x (1 minute Zone 4/2 minutes Zone 1) 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RSP15.FIT"
+    },
+    "RSP16": {
+      "name": "Running Speed Play 16",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": 51,
+      "zones": "Zone 1-4",
+      "description": "5 minutes Zone 1, 20 minutes Zone 2, 7 x (1 minute Zone 4/2 minutes Zone 1) 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RSP16.FIT"
+    },
+    "RSP17": {
+      "name": "Running Speed Play 17",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": 60,
+      "zones": "Zone 1-4",
+      "description": "5 minutes Zone 1, 20 minutes Zone 2, 10 x (1 minute Zone 4/2 minutes Zone 1) 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RSP17.FIT"
+    },
+    "RSP18": {
+      "name": "Running Speed Play 18",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": 48,
+      "zones": "Zone 1-4",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 7 x (2 minute Zone 4/2 minutes Zone 1) 5 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RSP18.FIT"
+    },
+    "RSP19": {
+      "name": "Running Speed Play 19",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": 50,
+      "zones": "Zone 1-4",
+      "description": "5 minutes Zone 1, 15 minutes Zone 2, 8 x (1 minute Zone 4/2 minutes Zone 1) 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RSP19.FIT"
+    },
+    "RSP20": {
+      "name": "Running Speed Play 20",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": 55,
+      "zones": "Zone 1-4",
+      "description": "5 minutes Zone 1, 15 minutes Zone 2, 5 x (2 minute Zone 4/2 minutes Zone 1) 10 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RSP20.FIT"
+    },
+    "RLSP1": {
+      "name": "Running Long Speed Play 1",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": null,
+      "zones": "Zone 1-3",
+      "description": "0.5 mile Zone 1, 1 mile Zone 2, 8 x (0.25 mile Zone 3/0.75 mile Zone 2) 0.5 mile Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RLSP1.FIT"
+    },
+    "RLSP2": {
+      "name": "Running Long Speed Play 2",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": null,
+      "zones": "Zone 1-3",
+      "description": "0.5 mile Zone 1, 1 mile Zone 2, 10 x (0.25 mile Zone 3/0.75 mile Zone 2) 0.5 mile Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RLSP2.FIT"
+    },
+    "RLSP3": {
+      "name": "Running Long Speed Play 3",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": null,
+      "zones": "Zone 1-3",
+      "description": "0.5 mile Zone 1, 1 mile Zone 2, 12 x (0.25 mile Zone 3/0.75 mile Zone 2) 0.5 mile Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RLSP3.FIT"
+    },
+    "RLSP4": {
+      "name": "Running Long Speed Play 4",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": null,
+      "zones": "Zone 1-3",
+      "description": "0.5 mile Zone 1, 1 mile Zone 2, 14 x (0.25 mile Zone 3/0.75 mile Zone 2) 0.5 mile Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RLSP4.FIT"
+    },
+    "RLSP5": {
+      "name": "Running Long Speed Play 5",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": null,
+      "zones": "Zone 1-3",
+      "description": "0.5 mile Zone 1, 1 mile Zone 2, 16 x (0.25 mile Zone 3/0.75 mile Zone 2) 0.5 mile Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RLSP5.FIT"
+    },
+    "RLSP6": {
+      "name": "Running Long Speed Play 6",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": null,
+      "zones": "Zone 1-3",
+      "description": "0.5 mile Zone 1, 1 mile Zone 2, 18 x (0.25 mile Zone 3/0.75 mile Zone 2) 0.5 mile Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RLSP6.FIT"
+    },
+    "RLMS": {
+      "name": "Running Long Marathon Specific ",
+      "sport": "run",
+      "intensity": "moderate",
+      "duration_minutes": null,
+      "zones": "Zone 1-2",
+      "description": "1.5 miles Zone 1, 16 miles at race pace, 1 mile Zone 2, 1.5 miles Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/run/RLMS.FIT"
+    },
+    "CRe2": {
+      "name": "Cycling Recovery 2",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 25,
+      "zones": "Zone 1-1",
+      "description": "25 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CRe2.FIT"
+    },
+    "CRe3": {
+      "name": "Cycling Recovery 3",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 30,
+      "zones": "Zone 1-1",
+      "description": "30 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CRe3.FIT"
+    },
+    "CRe4": {
+      "name": "Cycling Recovery 4",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 35,
+      "zones": "Zone 1-1",
+      "description": "35 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CRe4.FIT"
+    },
+    "CRe5": {
+      "name": "Cycling Recovery 5",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 40,
+      "zones": "Zone 1-1",
+      "description": "40 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CRe5.FIT"
+    },
+    "CRe6": {
+      "name": "Cycling Recovery 6",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 45,
+      "zones": "Zone 1-1",
+      "description": "45 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CRe6.FIT"
+    },
+    "CRe7": {
+      "name": "Cycling Recovery 7",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 50,
+      "zones": "Zone 1-1",
+      "description": "50 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CRe7.FIT"
+    },
+    "CRe8": {
+      "name": "Cycling Recovery 8",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 55,
+      "zones": "Zone 1-1",
+      "description": "55 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CRe8.FIT"
+    },
+    "CRe10": {
+      "name": "Cycling Recovery 10",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 75,
+      "zones": "Zone 1-1",
+      "description": "75 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CRe10.FIT"
+    },
+    "CRe11": {
+      "name": "Cycling Recovery 11",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 90,
+      "zones": "Zone 1-1",
+      "description": "90 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CRe11.FIT"
+    },
+    "CRe12": {
+      "name": "Cycling Recovery 12",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 105,
+      "zones": "Zone 1-1",
+      "description": "105 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CRe12.FIT"
+    },
+    "CRe14": {
+      "name": "Cycling Recovery 14",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 150,
+      "zones": "Zone 1-1",
+      "description": "150 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CRe14.FIT"
+    },
+    "CF1": {
+      "name": "Cycling Foundation 1",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 20,
+      "zones": "Zone 1-2",
+      "description": "5 minutes in Zone 1, 15 minutes Zone 2",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CF1.FIT"
+    },
+    "CF2": {
+      "name": "Cycling Foundation 2",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 25,
+      "zones": "Zone 1-2",
+      "description": "5 minutes in Zone 1, 15 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CF2.FIT"
+    },
+    "CF3": {
+      "name": "Cycling Foundation 3",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 30,
+      "zones": "Zone 1-2",
+      "description": "5 minutes in Zone 1, 20 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CF3.FIT"
+    },
+    "CF12": {
+      "name": "Cycling Foundation 12",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 105,
+      "zones": "Zone 1-2",
+      "description": "40 minutes in Zone 1, 55 minutes Zone 2, 10 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CF12.FIT"
+    },
+    "CF13": {
+      "name": "Cycling Foundation 13",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 120,
+      "zones": "Zone 1-2",
+      "description": "50 minutes in Zone 1, 60 minutes Zone 2, 10 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CF13.FIT"
+    },
+    "CF14": {
+      "name": "Cycling Foundation 14",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 135,
+      "zones": "Zone 1-2",
+      "description": "60 minutes in Zone 1, 65 minutes Zone 2, 10 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CF14.FIT"
+    },
+    "CF15": {
+      "name": "Cycling Foundation 15",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 150,
+      "zones": "Zone 1-2",
+      "description": "70 minutes in Zone 1, 70 minutes Zone 2, 10 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CF15.FIT"
+    },
+    "CF16": {
+      "name": "Cycling Foundation 16",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 165,
+      "zones": "Zone 1-2",
+      "description": "80 minutes in Zone 1, 75 minutes Zone 2, 10 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CF16.FIT"
+    },
+    "CF17": {
+      "name": "Cycling Foundation 17",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 180,
+      "zones": "Zone 1-2",
+      "description": "90 minutes in Zone 1, 80 minutes Zone 2, 10 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CF17.FIT"
+    },
+    "CF18": {
+      "name": "Cycling Foundation 18",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 195,
+      "zones": "Zone 1-2",
+      "description": "100 minutes in Zone 1, 85 minutes Zone 2, 10 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CF18.FIT"
+    },
+    "CF19": {
+      "name": "Cycling Foundation 19",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 210,
+      "zones": "Zone 1-2",
+      "description": "110 minutes in Zone 1, 90 minutes Zone 2, 10 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CF19.FIT"
+    },
+    "CF20": {
+      "name": "Cycling Foundation 20",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 225,
+      "zones": "Zone 1-2",
+      "description": "120 minutes in Zone 1, 95 minutes Zone 2, 10 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CF20.FIT"
+    },
+    "CF21": {
+      "name": "Cycling Foundation 21",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 240,
+      "zones": "Zone 1-2",
+      "description": "130 minutes in Zone 1, 100 minutes Zone 2, 10 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CF21.FIT"
+    },
+    "CF22": {
+      "name": "Cycling Foundation 22",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 270,
+      "zones": "Zone 1-2",
+      "description": "140 minutes in Zone 1, 120 minutes Zone 2, 10 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CF22.FIT"
+    },
+    "CF23": {
+      "name": "Cycling Foundation 23",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 300,
+      "zones": "Zone 1-2",
+      "description": "150 minutes in Zone 1, 140 minutes Zone 2, 10 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CF23.FIT"
+    },
+    "CF24": {
+      "name": "Cycling Foundation 24",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 330,
+      "zones": "Zone 1-2",
+      "description": "160 minutes in Zone 1, 160 minutes Zone 2, 10 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CF24.FIT"
+    },
+    "CF25": {
+      "name": "Cycling Foundation 25",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 360,
+      "zones": "Zone 1-2",
+      "description": "170 minutes in Zone 1, 180 minutes Zone 2, 10 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CF25.FIT"
+    },
+    "CF26": {
+      "name": "Cycling Foundation 26",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 75,
+      "zones": "Zone 1-2",
+      "description": "5 minutes in Zone 1, 65 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CF26.FIT"
+    },
+    "CAe1": {
+      "name": "Cycling Aerobic 1",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 70,
+      "zones": "Zone 1-2",
+      "description": "10 minutes Zone 1, 2 x (20 minutes Zone 2/5 minutes Zone 1) 10 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CAe1.FIT"
+    },
+    "CAe3": {
+      "name": "Cycling Aerobic 3",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 110,
+      "zones": "Zone 1-2",
+      "description": "15 minutes Zone 1, 4 x (15 minutes Zone 2/5 minutes Zone 1) 15 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CAe3.FIT"
+    },
+    "CAe4": {
+      "name": "Cycling Aerobic 4",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 121,
+      "zones": "Zone 1-2",
+      "description": "20 minutes Zone 1, 3 x (20 minutes Zone 2/7 minutes Zone 1) 20 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CAe4.FIT"
+    },
+    "CAe5": {
+      "name": "Cycling Aerobic 5",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 120,
+      "zones": "Zone 1-2",
+      "description": "10 minutes Zone 1, 5 x (15 minutes Zone 2/5 minutes Zone 1) 10 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CAe5.FIT"
+    },
+    "CAe6": {
+      "name": "Cycling Aerobic 6",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 128,
+      "zones": "Zone 1-2",
+      "description": "10 minutes Zone 1, 4 x (20 minutes Zone 2/7 minutes Zone 1) 10 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CAe6.FIT"
+    },
+    "CAe7": {
+      "name": "Cycling Aerobic 7",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 150,
+      "zones": "Zone 1-2",
+      "description": "12 minutes Zone 1, 4 x (25 minutes Zone 2/7 minutes Zone 1) 10 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CAe7.FIT"
+    },
+    "CAe8": {
+      "name": "Cycling Aerobic 8",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 180,
+      "zones": "Zone 1-2",
+      "description": "10 minutes Zone 1, 4 x (30 minutes Zone 2/10 minutes Zone 1) 10 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CAe8.FIT"
+    },
+    "CAe9": {
+      "name": "Cycling Aerobic 9",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 180,
+      "zones": "Zone 1-2",
+      "description": "10 minutes Zone 1, 5 x (25 minutes Zone 2/7 minutes Zone 1) 10 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CAe9.FIT"
+    },
+    "CAe10": {
+      "name": "Cycling Aerobic 10",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 210,
+      "zones": "Zone 1-2",
+      "description": "5 minutes Zone 1, 5 x (30 minutes Zone 2/10 minutes Zone 1) 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CAe10.FIT"
+    },
+    "CAe11": {
+      "name": "Cycling Aerobic 11",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 250,
+      "zones": "Zone 1-2",
+      "description": "5 minutes Zone 1, 6 x (30 minutes Zone 2/10 minutes Zone 1) 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CAe11.FIT"
+    },
+    "CAe12": {
+      "name": "Cycling Aerobic 12",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 270,
+      "zones": "Zone 1-2",
+      "description": "10 minutes Zone 1, 6 x (30 minutes Zone 2/10 minutes Zone 1) 20 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CAe12.FIT"
+    },
+    "CAe13": {
+      "name": "Cycling Aerobic 13",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 285,
+      "zones": "Zone 1-2",
+      "description": "10 minutes Zone 1, 6 x (30 minutes Zone 2/10 minutes Zone 1) 35 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CAe13.FIT"
+    },
+    "CAe14": {
+      "name": "Cycling Aerobic 14",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 300,
+      "zones": "Zone 1-2",
+      "description": "10 minutes Zone 1, 6 x (30 minutes Zone 2/10 minutes Zone 1) 50 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CAe14.FIT"
+    },
+    "CAe15": {
+      "name": "Cycling Aerobic 15",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 315,
+      "zones": "Zone 1-2",
+      "description": "10 minutes Zone 1, 6 x (30 minutes Zone 2/10 minutes Zone 1) 65 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CAe15.FIT"
+    },
+    "CAe16": {
+      "name": "Cycling Aerobic 16",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 330,
+      "zones": "Zone 1-2",
+      "description": "10 minutes Zone 1, 6 x (30 minutes Zone 2/10 minutes Zone 1) 80 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CAe16.FIT"
+    },
+    "CAe17": {
+      "name": "Cycling Aerobic 17",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 345,
+      "zones": "Zone 1-2",
+      "description": "10 minutes Zone 1, 6 x (30 minutes Zone 2/10 minutes Zone 1) 95 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CAe17.FIT"
+    },
+    "CAe18": {
+      "name": "Cycling Aerobic 18",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 360,
+      "zones": "Zone 1-2",
+      "description": "10 minutes Zone 1, 6 x (30 minutes Zone 2/10 minutes Zone 1) 110 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CAe18.FIT"
+    },
+    "CAe19": {
+      "name": "Cycling Aerobic 19",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 210,
+      "zones": "Zone 1-2",
+      "description": "10 minutes Zone 1, 4 x (30 minutes Zone 2/10 minutes Zone 1) 40 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CAe19.FIT"
+    },
+    "CAe25": {
+      "name": "Cycling Aerobic 25",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 390,
+      "zones": "Zone 1-2",
+      "description": "10 minutes Zone 1, 4 x (30 minutes Zone 2/10 minutes Zone 1) 220 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CAe25.FIT"
+    },
+    "CAe26": {
+      "name": "Cycling Aerobic 26",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 420,
+      "zones": "Zone 1-2",
+      "description": "10 minutes Zone 1, 4 x (30 minutes Zone 2/10 minutes Zone 1) 250 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CAe26.FIT"
+    },
+    "CAe27": {
+      "name": "Cycling Aerobic 27",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 240,
+      "zones": "Zone 1-2",
+      "description": "10 minutes Zone 1, 10 minutes Zone 2, 3 x (4 minutes Zone 2/1 minute Zone 1) 205 minutes Zone 2",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CAe27.FIT"
+    },
+    "CAe28": {
+      "name": "Cycling Aerobic 28",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 260,
+      "zones": "Zone 1-2",
+      "description": "10 minutes Zone 1, 10 minutes Zone 2, 3 x (5 minutes Zone 2/1 minute Zone 1) 222 minutes Zone 2",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CAe28.FIT"
+    },
+    "CAe29": {
+      "name": "Cycling Aerobic 29",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 280,
+      "zones": "Zone 1-2",
+      "description": "10 minutes Zone 1, 10 minutes Zone 2, 3 x (6 minutes Zone 2/1 minute Zone 1) 239 minutes Zone 2",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CAe29.FIT"
+    },
+    "CAe30": {
+      "name": "Cycling Aerobic 30",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 300,
+      "zones": "Zone 1-2",
+      "description": "10 minutes Zone 1, 10 minutes Zone 2, 3 x (7 minutes Zone 2/1 minute Zone 1) 256 minutes Zone 2",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CAe30.FIT"
+    },
+    "CAe31": {
+      "name": "Cycling Aerobic 31",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 320,
+      "zones": "Zone 1-2",
+      "description": "10 minutes Zone 1, 10 minutes Zone 2, 3 x (8 minutes Zone 2/1 minute Zone 1) 273 minutes Zone 2",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CAe31.FIT"
+    },
+    "CAe32": {
+      "name": "Cycling Aerobic 32",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 340,
+      "zones": "Zone 1-2",
+      "description": "10 minutes Zone 1, 10 minutes Zone 2, 3 x (9 minutes Zone 2/1 minute Zone 1) 290 minutes Zone 2",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CAe32.FIT"
+    },
+    "CAe33": {
+      "name": "Cycling Aerobic 33",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 360,
+      "zones": "Zone 1-2",
+      "description": "10 minutes Zone 1, 10 minutes Zone 2, 3 x (10 minutes Zone 2/1 minute Zone 1) 307 minutes Zone 2",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CAe33.FIT"
+    },
+    "CAe34": {
+      "name": "Cycling Aerobic 34",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 330,
+      "zones": "Zone 1-2",
+      "description": "10 minutes Zone 1, 5 x (30 minutes Zone 2/10 minutes Zone 1) 120 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CAe34.FIT"
+    },
+    "CAe36": {
+      "name": "Cycling Aerobic 36",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 150,
+      "zones": "Zone 1-2",
+      "description": "30 minutes Zone 1, 4 x (20 minutes Zone 2/10 minutes Zone 1)",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CAe36.FIT"
+    },
+    "CAe37": {
+      "name": "Cycling Aerobic 37",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 165,
+      "zones": "Zone 1-2",
+      "description": "30 minutes Zone 1, 4 x (20 minutes Zone 2/10 minutes Zone 1), 15 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CAe37.FIT"
+    },
+    "CCI6": {
+      "name": "Cycling Cruise Intervals 6",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 72,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 4 x (10 minutes Zone 3/3 minutes Zone 1) 5 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CCI6.FIT"
+    },
+    "CCI7": {
+      "name": "Cycling Cruise Intervals 7",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 80,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 4 x (12 minutes Zone 3/3 minutes Zone 1) 5 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CCI7.FIT"
+    },
+    "CCI8": {
+      "name": "Cycling Cruise Intervals 8",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 92,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 4 x (15 minutes Zone 3/3 minutes Zone 1) 5 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CCI8.FIT"
+    },
+    "CCI9": {
+      "name": "Cycling Cruise Intervals 9",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 95,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 5 x (12 minutes Zone 3/3 minutes Zone 1) 5 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CCI9.FIT"
+    },
+    "CCI10": {
+      "name": "Cycling Cruise Intervals 10",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 119,
+      "zones": "Zone 1-3",
+      "description": "10 minutes Zone 1, 15 minutes Zone 2, 4 x (8 minutes Zone 3/3 minutes Zone 1) 40 minutes Zone 2, 10 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CCI10.FIT"
+    },
+    "CCI11": {
+      "name": "Cycling Cruise Intervals 11",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 150,
+      "zones": "Zone 1-3",
+      "description": "10 minutes Zone 1, 15 minutes Zone 2, 4 x (8 minutes Zone 3/3 minutes Zone 1) 71 minutes Zone 2, 10 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CCI11.FIT"
+    },
+    "CCI12": {
+      "name": "Cycling Cruise Intervals 12",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 60,
+      "zones": "Zone 1-3",
+      "description": "10 minutes Zone 1, 10 minutes Zone 2, 2 x (10 minutes Zone 3/4 minutes Zone 1) 12 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CCI12.FIT"
+    },
+    "CCI13": {
+      "name": "Cycling Cruise Intervals 13",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 90,
+      "zones": "Zone 1-3",
+      "description": "10 minutes Zone 1, 10 minutes Zone 2, 4 x (6 minutes Zone 3/3 minutes Zone 1) 29 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CCI13.FIT"
+    },
+    "CCI14": {
+      "name": "Cycling Cruise Intervals 14",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 90,
+      "zones": "Zone 1-3",
+      "description": "10 minutes Zone 1, 10 minutes Zone 2, 4 x (7 minutes Zone 3/3 minutes Zone 1) 25 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CCI14.FIT"
+    },
+    "CCI15": {
+      "name": "Cycling Cruise Intervals 15",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 90,
+      "zones": "Zone 1-3",
+      "description": "10 minutes Zone 1, 10 minutes Zone 2, 4 x (8 minutes Zone 3/3 minutes Zone 1) 21 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CCI15.FIT"
+    },
+    "CCI16": {
+      "name": "Cycling Cruise Intervals 16",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 90,
+      "zones": "Zone 1-3",
+      "description": "10 minutes Zone 1, 10 minutes Zone 2, 4 x (9 minutes Zone 3/3 minutes Zone 1) 17 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CCI16.FIT"
+    },
+    "CCI18": {
+      "name": "Cycling Cruise Intervals 18",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 105,
+      "zones": "Zone 1-3",
+      "description": "10 minutes Zone 1, 10 minutes Zone 2, 4 x (6 minutes Zone 3/3 minutes Zone 1) 44 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CCI18.FIT"
+    },
+    "CCI19": {
+      "name": "Cycling Cruise Intervals 19",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 120,
+      "zones": "Zone 1-3",
+      "description": "20 minutes Zone 1, 10 minutes Zone 2, 4 x (6 minutes Zone 3/3 minutes Zone 1) 49 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CCI19.FIT"
+    },
+    "CCI20": {
+      "name": "Cycling Cruise Intervals 20",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 90,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 4 x (5 minutes Zone 3/3 minutes Zone 1) 43 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CCI20.FIT"
+    },
+    "CCI21": {
+      "name": "Cycling Cruise Intervals 21",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 90,
+      "zones": "Zone 1-3",
+      "description": "10 minutes Zone 1, 10 minutes Zone 2, 2 x (10 minutes Zone 3/4 minutes Zone 1) 10 minutes Zone 2, 32 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CCI21.FIT"
+    },
+    "CCI22": {
+      "name": "Cycling Cruise Intervals 22",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 90,
+      "zones": "Zone 1-3",
+      "description": "10 minutes Zone 1, 20 minutes Zone 2, 3 x (3 minutes Zone 3/2 minutes Zone 1) 30 minutes Zone 2, 15 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CCI22.FIT"
+    },
+    "CCI23": {
+      "name": "Cycling Cruise Intervals 23",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 91,
+      "zones": "Zone 1-3",
+      "description": "10 minutes Zone 1, 20 minutes Zone 2, 3 x (5 minutes Zone 3/2 minutes Zone 1) 30 minutes Zone 2, 10 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CCI23.FIT"
+    },
+    "CCI24": {
+      "name": "Cycling Cruise Intervals 24",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 120,
+      "zones": "Zone 1-3",
+      "description": "10 minutes Zone 1, 20 minutes Zone 2, 3 x (5 minutes Zone 3/2 minutes Zone 1) 60 minutes Zone 2, 10 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CCI24.FIT"
+    },
+    "CT1": {
+      "name": "Cycling Tempo 1",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 60,
+      "zones": "Zone 1-3",
+      "description": "15 minutes Zone 1, 5 minutes Zone 3, 40 minutes Zone 2",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CT1.FIT"
+    },
+    "CT2": {
+      "name": "Cycling Tempo 2",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 35,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 15 minutes Zone 3, 5 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CT2.FIT"
+    },
+    "CT3": {
+      "name": "Cycling Tempo 3",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 38,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 18 minutes Zone 3, 5 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CT3.FIT"
+    },
+    "CT4": {
+      "name": "Cycling Tempo 4",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 40,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 20 minutes Zone 3, 5 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CT4.FIT"
+    },
+    "CT5": {
+      "name": "Cycling Tempo 5",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 44,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 24 minutes Zone 3, 5 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CT5.FIT"
+    },
+    "CT6": {
+      "name": "Cycling Tempo 6",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 48,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 28 minutes Zone 3, 5 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CT6.FIT"
+    },
+    "CT7": {
+      "name": "Cycling Tempo 7",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 50,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 30 minutes Zone 3, 5 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CT7.FIT"
+    },
+    "CT9": {
+      "name": "Cycling Tempo 9",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 75,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 10 minutes Zone 2, 20 minutes Zone 3, 35minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CT9.FIT"
+    },
+    "CT10": {
+      "name": "Cycling Tempo 10",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 90,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 10 minutes Zone 2, 30 minutes Zone 3, 40minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CT10.FIT"
+    },
+    "CT11": {
+      "name": "Cycling Tempo 11",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 105,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 10 minutes Zone 2, 20 minutes Zone 3, 65minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CT11.FIT"
+    },
+    "CT12": {
+      "name": "Cycling Tempo 12",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 120,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 10 minutes Zone 2, 30 minutes Zone 3, 70minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CT12.FIT"
+    },
+    "CT13": {
+      "name": "Cycling Tempo 13",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 135,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 10 minutes Zone 2, 20 minutes Zone 3, 95minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CT13.FIT"
+    },
+    "CT14": {
+      "name": "Cycling Tempo 14",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 150,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 10 minutes Zone 2, 30 minutes Zone 3, 100minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CT14.FIT"
+    },
+    "CT15": {
+      "name": "Cycling Tempo 15",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 165,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 10 minutes Zone 2, 20 minutes Zone 3, 125minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CT15.FIT"
+    },
+    "CT16": {
+      "name": "Cycling Tempo 16",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 180,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 10 minutes Zone 2, 30 minutes Zone 3, 130minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CT16.FIT"
+    },
+    "CT17": {
+      "name": "Cycling Tempo 17",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 195,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 10 minutes Zone 2, 20 minutes Zone 3, 155minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CT17.FIT"
+    },
+    "CT18": {
+      "name": "Cycling Tempo 18",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 210,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 10 minutes Zone 2, 30 minutes Zone 3, 160minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CT18.FIT"
+    },
+    "CT19": {
+      "name": "Cycling Tempo 19",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 225,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 10 minutes Zone 2, 20 minutes Zone 3, 185minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CT19.FIT"
+    },
+    "CT20": {
+      "name": "Cycling Tempo 20",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 240,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 10 minutes Zone 2, 30 minutes Zone 3, 190minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CT20.FIT"
+    },
+    "CT21": {
+      "name": "Cycling Tempo 21",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 255,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 10 minutes Zone 2, 20 minutes Zone 3, 215minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CT21.FIT"
+    },
+    "CT22": {
+      "name": "Cycling Tempo 22",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 270,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 10 minutes Zone 2, 30 minutes Zone 3, 220minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CT22.FIT"
+    },
+    "CT23": {
+      "name": "Cycling Tempo 23",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 285,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 10 minutes Zone 2, 20 minutes Zone 3, 245minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CT23.FIT"
+    },
+    "CT24": {
+      "name": "Cycling Tempo 24",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 300,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 10 minutes Zone 2, 30 minutes Zone 3, 250minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CT24.FIT"
+    },
+    "CT25": {
+      "name": "Cycling Tempo 25",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 52,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 32 minutes Zone 3, 5 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CT25.FIT"
+    },
+    "CT26": {
+      "name": "Cycling Tempo 26",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 56,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 36 minutes Zone 3, 5 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CT26.FIT"
+    },
+    "CT27": {
+      "name": "Cycling Tempo 27",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 60,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 40 minutes Zone 3, 5 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CT27.FIT"
+    },
+    "CT28": {
+      "name": "Cycling Tempo 28",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 65,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 45 minutes Zone 3, 5 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CT28.FIT"
+    },
+    "CT29": {
+      "name": "Cycling Tempo 29",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 55,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 15 minutes Zone 2, 15 minutes Zone 3, 15 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CT29.FIT"
+    },
+    "CT32": {
+      "name": "Cycling Tempo 32",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 72,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 15 minutes Zone 2, 32 minutes Zone 3, 15 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CT32.FIT"
+    },
+    "CT33": {
+      "name": "Cycling Tempo 33",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 70,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 10 minutes Zone 2, 40 minutes Zone 3, 10 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CT33.FIT"
+    },
+    "CFF1": {
+      "name": "Cycling Fast Finish 1",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 25,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 15 minutes Zone 2, 5 minutes Zone 3",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CFF1.FIT"
+    },
+    "CFF2": {
+      "name": "Cycling Fast Finish 2",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 30,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 20 minutes Zone 2, 5 minutes Zone 3",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CFF2.FIT"
+    },
+    "CFF3": {
+      "name": "Cycling Fast Finish 3",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 30,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 15 minutes Zone 2, 10 minutes Zone 3",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CFF3.FIT"
+    },
+    "CFF5": {
+      "name": "Cycling Fast Finish 5",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 42,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 25 minutes Zone 2, 12 minutes Zone 3",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CFF5.FIT"
+    },
+    "CFF6": {
+      "name": "Cycling Fast Finish 6",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 47,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 30 minutes Zone 2, 12 minutes Zone 3",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CFF6.FIT"
+    },
+    "CFF7": {
+      "name": "Cycling Fast Finish 7",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 52,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 35 minutes Zone 2, 12 minutes Zone 3",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CFF7.FIT"
+    },
+    "CFF8": {
+      "name": "Cycling Fast Finish 8",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 55,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 35 minutes Zone 2, 15 minutes Zone 3",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CFF8.FIT"
+    },
+    "CFF10": {
+      "name": "Cycling Fast Finish 10",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 65,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 45 minutes Zone 2, 15 minutes Zone 3",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CFF10.FIT"
+    },
+    "CFF11": {
+      "name": "Cycling Fast Finish 11",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 75,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 55 minutes Zone 2, 15 minutes Zone 3",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CFF11.FIT"
+    },
+    "CFF12": {
+      "name": "Cycling Fast Finish 12",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 90,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 70 minutes Zone 2, 15 minutes Zone 3",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CFF12.FIT"
+    },
+    "CFF15": {
+      "name": "Cycling Fast Finish 15",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 135,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 115 minutes Zone 2, 15 minutes Zone 3",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CFF15.FIT"
+    },
+    "CFF16": {
+      "name": "Cycling Fast Finish 16",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 150,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 130 minutes Zone 2, 15 minutes Zone 3",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CFF16.FIT"
+    },
+    "CFF17": {
+      "name": "Cycling Fast Finish 17",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 165,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 145 minutes Zone 2, 15 minutes Zone 3",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CFF17.FIT"
+    },
+    "CFF18": {
+      "name": "Cycling Fast Finish 18",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 180,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 160 minutes Zone 2, 15 minutes Zone 3",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CFF18.FIT"
+    },
+    "CFF19": {
+      "name": "Cycling Fast Finish 19",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 195,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 175 minutes Zone 2, 15 minutes Zone 3",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CFF19.FIT"
+    },
+    "CFF20": {
+      "name": "Cycling Fast Finish 20",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 210,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 190 minutes Zone 2, 15 minutes Zone 3",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CFF20.FIT"
+    },
+    "CFF21": {
+      "name": "Cycling Fast Finish 21",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 225,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 205 minutes Zone 2, 15 minutes Zone 3",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CFF21.FIT"
+    },
+    "CFF22": {
+      "name": "Cycling Fast Finish 22",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 240,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 220 minutes Zone 2, 15 minutes Zone 3",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CFF22.FIT"
+    },
+    "CFF23": {
+      "name": "Cycling Fast Finish 23",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 270,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 250 minutes Zone 2, 15 minutes Zone 3",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CFF23.FIT"
+    },
+    "CFF24": {
+      "name": "Cycling Fast Finish 24",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 300,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 280 minutes Zone 2, 15 minutes Zone 3",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CFF24.FIT"
+    },
+    "CFF25": {
+      "name": "Cycling Fast Finish 25",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 330,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 310 minutes Zone 2, 15 minutes Zone 3",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CFF25.FIT"
+    },
+    "CFF26": {
+      "name": "Cycling Fast Finish 26",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 360,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 340 minutes Zone 2, 15 minutes Zone 3",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CFF26.FIT"
+    },
+    "CFF27": {
+      "name": "Cycling Fast Finish 27",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 60,
+      "zones": "Zone 1-3",
+      "description": "5 minutes Zone 1, 45 minutes Zone 2, 10 minutes Zone 3",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CFF27.FIT"
+    },
+    "CFo1": {
+      "name": "Cycling Foundation (Long) 1",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 27,
+      "zones": "Zone 1-5",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 6 x (30 seconds Zone 5 uphill or simulated/90 seconds Zone 1) 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CFo1.FIT"
+    },
+    "CFo2": {
+      "name": "Cycling Foundation (Long) 2",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 31,
+      "zones": "Zone 1-5",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 8 x (30 seconds Zone 5 uphill or simulated/90 seconds Zone 1) 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CFo2.FIT"
+    },
+    "CFo3": {
+      "name": "Cycling Foundation (Long) 3",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 33,
+      "zones": "Zone 1-5",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 6 x (1 minute Zone 5 uphill or simulated/2 minutes Zone 1) 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CFo3.FIT"
+    },
+    "CFo4": {
+      "name": "Cycling Foundation (Long) 4",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 35,
+      "zones": "Zone 1-5",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 10 x (30 seconds Zone 5 uphill or simulated/90 seconds Zone 1) 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CFo4.FIT"
+    },
+    "CFo5": {
+      "name": "Cycling Foundation (Long) 5",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 39,
+      "zones": "Zone 1-5",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 12 x (30 seconds Zone 5 uphill or simulated/90 seconds Zone 1) 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CFo5.FIT"
+    },
+    "CFo6": {
+      "name": "Cycling Foundation (Long) 6",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 39,
+      "zones": "Zone 1-5",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 8 x (1 minute Zone 5 uphill or simulated/2 minutes Zone 1) 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CFo6.FIT"
+    },
+    "CFo7": {
+      "name": "Cycling Foundation (Long) 7",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 39,
+      "zones": "Zone 1-5",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 6 x (1.5 minutes Zone 5 uphill or simulated/2.5 minutes Zone 1) 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CFo7.FIT"
+    },
+    "CFo8": {
+      "name": "Cycling Foundation (Long) 8",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 45,
+      "zones": "Zone 1-5",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 10 x (1 minute Zone 5 uphill or simulated/2 minutes Zone 1) 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CFo8.FIT"
+    },
+    "CFo9": {
+      "name": "Cycling Foundation (Long) 9",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 47,
+      "zones": "Zone 1-5",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 8 x (1.5 minutes Zone 5 uphill or simulated/2.5 minutes Zone 1) 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CFo9.FIT"
+    },
+    "CFo10": {
+      "name": "Cycling Foundation (Long) 10",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 51,
+      "zones": "Zone 1-5",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 12 x (1 minute Zone 5 uphill or simulated/2 minutes Zone 1) 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CFo10.FIT"
+    },
+    "CFo11": {
+      "name": "Cycling Foundation (Long) 11",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 55,
+      "zones": "Zone 1-5",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 10 x (1.5 minutes Zone 5 uphill or simulated/2.5 minutes Zone 1) 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CFo11.FIT"
+    },
+    "CFo12": {
+      "name": "Cycling Foundation (Long) 12",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 63,
+      "zones": "Zone 1-5",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 12 x (1.5 minutes Zone 5 uphill or simulated/2.5 minutes Zone 1) 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CFo12.FIT"
+    },
+    "CFo13": {
+      "name": "Cycling Foundation (Long) 13",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 70,
+      "zones": "Zone 1-5",
+      "description": "5 minutes Zone 1, 10 minutes Zone 2, 10 x (1.5 minutes Zone 5 uphill or simulated/2.5 minutes Zone 1) 10 Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CFo13.FIT"
+    },
+    "CFo14": {
+      "name": "Cycling Foundation (Long) 14",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 135,
+      "zones": "Zone 1-5",
+      "description": "15 minutes Zone 1, 15 minutes Zone 2, 10 x (1 minute Zone 5 uphill or simulated/2 minutes Zone 1), 70 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CFo14.FIT"
+    },
+    "CFo15": {
+      "name": "Cycling Foundation (Long) 15",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 150,
+      "zones": "Zone 1-5",
+      "description": "15 minutes Zone 1, 15 minutes Zone 2, 10 x (1 minute Zone 5 uphill or simulated/2 minutes Zone 1), 85 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CFo15.FIT"
+    },
+    "CFo21": {
+      "name": "Cycling Foundation (Long) 21",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 120,
+      "zones": "Zone 1-5",
+      "description": "15 minutes Zone 1, 15 minutes Zone 2, 10 x (1 minute Zone 5 uphill or simulated/2 minutes Zone 1), 55 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CFo21.FIT"
+    },
+    "CFo22": {
+      "name": "Cycling Foundation (Long) 22",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 60,
+      "zones": "Zone 1-5",
+      "description": "10 minutes Zone 1, 10 minutes Zone 2, 8 x (30 seconds Zone 5 uphill or simulated/60 seconds Zone 1) 28 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CFo22.FIT"
+    },
+    "CFo23": {
+      "name": "Cycling Foundation (Long) 23",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 105,
+      "zones": "Zone 1-5",
+      "description": "15 minutes Zone 1, 15 minutes Zone 2, 10 x (1 minute Zone 5 uphill or simulated/2 minutes Zone 1), 40 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CFo23.FIT"
+    },
+    "CFo24": {
+      "name": "Cycling Foundation (Long) 24",
+      "sport": "bike",
+      "intensity": "low",
+      "duration_minutes": 90,
+      "zones": "Zone 1-5",
+      "description": "15 minutes Zone 1, 15 minutes Zone 2, 5 x (1 minute Zone 5 uphill or simulated/2 minutes Zone 1), 25 minutes Zone 2, 20 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CFo24.FIT"
+    },
+    "CMI1": {
+      "name": "Cycling Mixed Intervals 1",
+      "sport": "bike",
+      "intensity": "high",
+      "duration_minutes": 120,
+      "zones": "Zone 1-4",
+      "description": "20 minutes Zone 1, 2 x (20 minutes Zone 3/15 minutes Zone 1), 10 x (1 minute Zone 4/2 minutes Zone 1)",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CMI1.FIT"
+    },
+    "CMI2": {
+      "name": "Cycling Mixed Intervals 2",
+      "sport": "bike",
+      "intensity": "high",
+      "duration_minutes": 150,
+      "zones": "Zone 1-4",
+      "description": "20 minutes Zone 1, 2 x (20 minutes Zone 3/15 minutes Zone 1), 10 x (1 minute Zone 4/2 minutes Zone 1) 30 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CMI2.FIT"
+    },
+    "CMI3": {
+      "name": "Cycling Mixed Intervals 3",
+      "sport": "bike",
+      "intensity": "high",
+      "duration_minutes": 165,
+      "zones": "Zone 1-4",
+      "description": "20 minutes Zone 1, 2 x (20 minutes Zone 3/15 minutes Zone 1), 10 x (1 minute Zone 4/2 minutes Zone 1) 45 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CMI3.FIT"
+    },
+    "CMI4": {
+      "name": "Cycling Mixed Intervals 4",
+      "sport": "bike",
+      "intensity": "high",
+      "duration_minutes": 180,
+      "zones": "Zone 1-4",
+      "description": "20 minutes Zone 1, 2 x (20 minutes Zone 3/15 minutes Zone 1), 10 x (1 minute Zone 4/2 minutes Zone 1) 60 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CMI4.FIT"
+    },
+    "CMI5": {
+      "name": "Cycling Mixed Intervals 5",
+      "sport": "bike",
+      "intensity": "high",
+      "duration_minutes": 210,
+      "zones": "Zone 1-4",
+      "description": "20 minutes Zone 1, 2 x (20 minutes Zone 3/15 minutes Zone 1), 10 x (1 minute Zone 4/2 minutes Zone 1) 90 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CMI5.FIT"
+    },
+    "CMI6": {
+      "name": "Cycling Mixed Intervals 6",
+      "sport": "bike",
+      "intensity": "high",
+      "duration_minutes": 120,
+      "zones": "Zone 1-4",
+      "description": "20 minutes Zone 1, 2 x (20 minutes Zone 3/15 minutes Zone 1), 5 x (1 minute Zone 4/2 minutes Zone 1) 15 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CMI6.FIT"
+    },
+    "CAn1": {
+      "name": "Cycling Anaerobic 1",
+      "sport": "bike",
+      "intensity": "high",
+      "duration_minutes": 60,
+      "zones": "Zone 1-4",
+      "description": "15 minutes Zone 1, 4 x (2.5 minutes Zone 4/5 minutes Zone 1) 15 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CAn1.FIT"
+    },
+    "CAn2": {
+      "name": "Cycling Anaerobic 2",
+      "sport": "bike",
+      "intensity": "high",
+      "duration_minutes": null,
+      "zones": "Zone 1-4",
+      "description": "15 minutes Zone 1, 5 x (2.5 minutes Zone 4/5 minutes Zone 1) 10 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CAn2.FIT"
+    },
+    "CAn3": {
+      "name": "Cycling Anaerobic 3",
+      "sport": "bike",
+      "intensity": "high",
+      "duration_minutes": 60,
+      "zones": "Zone 1-4",
+      "description": "10 minutes Zone 1, 6 x (2.5 minutes Zone 4/5 minutes Zone 1) 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CAn3.FIT"
+    },
+    "CAn4": {
+      "name": "Cycling Anaerobic 4",
+      "sport": "bike",
+      "intensity": "high",
+      "duration_minutes": 90,
+      "zones": "Zone 1-4",
+      "description": "10 minutes Zone 1, 6 x (2.5 minutes Zone 4/5 minutes Zone 1) 30 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CAn4.FIT"
+    },
+    "CAn5": {
+      "name": "Cycling Anaerobic 5",
+      "sport": "bike",
+      "intensity": "high",
+      "duration_minutes": 120,
+      "zones": "Zone 1-4",
+      "description": "10 minutes Zone 1, 6 x (2.5 minutes Zone 4/5 minutes Zone 1) 60 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CAn5.FIT"
+    },
+    "CAn6": {
+      "name": "Cycling Anaerobic 6",
+      "sport": "bike",
+      "intensity": "high",
+      "duration_minutes": 150,
+      "zones": "Zone 1-4",
+      "description": "10 minutes Zone 1, 10 minutes Zone 2, 6 x (2.5 minutes Zone 4/5 minutes Zone 1) 80 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CAn6.FIT"
+    },
+    "CAn9": {
+      "name": "Cycling Anaerobic 9",
+      "sport": "bike",
+      "intensity": "high",
+      "duration_minutes": 60,
+      "zones": "Zone 1-4",
+      "description": "10 minutes Zone 1, 10 minutes Zone 2, 3 x (2.5 minutes Zone 4/5 minutes Zone 1) 17 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CAn9.FIT"
+    },
+    "CSP1": {
+      "name": "Cycling Speed Play 1",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 27,
+      "zones": "Zone 1-4",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 3 x (2 minutes Zone 4/2 minutes Zone 1) 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CSP1.FIT"
+    },
+    "CSP2": {
+      "name": "Cycling Speed Play 2",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 60,
+      "zones": "Zone 1-4",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 5 x (1 minute Zone 4/2 minutes Zone 1) 30 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CSP2.FIT"
+    },
+    "CSP4": {
+      "name": "Cycling Speed Play 4",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 60,
+      "zones": "Zone 1-4",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 6 x (1 minute Zone 4/2 minutes Zone 1), 27 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CSP4.FIT"
+    },
+    "CSP5": {
+      "name": "Cycling Speed Play 5",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 35,
+      "zones": "Zone 1-4",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 5 x (2 minutes Zone 4/2 minutes Zone 1) 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CSP5.FIT"
+    },
+    "CSP6": {
+      "name": "Cycling Speed Play 6",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 66,
+      "zones": "Zone 1-4",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 7 x (1 minute Zone 4/2 minutes Zone 1) 30 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CSP6.FIT"
+    },
+    "CSP7": {
+      "name": "Cycling Speed Play 7",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 39,
+      "zones": "Zone 1-4",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 6 x (2 minutes Zone 4/2 minutes Zone 1) 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CSP7.FIT"
+    },
+    "CSP8": {
+      "name": "Cycling Speed Play 8",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 60,
+      "zones": "Zone 1-4",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 8 x (1 minute Zone 4/2 minutes Zone 1) 26 minutes Zone 2",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CSP8.FIT"
+    },
+    "CSP9": {
+      "name": "Cycling Speed Play 9",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 42,
+      "zones": "Zone 1-4",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 9 x (1 minute Zone 4/2 minutes Zone 1) 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CSP9.FIT"
+    },
+    "CSP10": {
+      "name": "Cycling Speed Play 10",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 60,
+      "zones": "Zone 1-4",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 7 x (2 minutes Zone 4/2 minutes Zone 1) 17 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CSP10.FIT"
+    },
+    "CSP11": {
+      "name": "Cycling Speed Play 11",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 45,
+      "zones": "Zone 1-4",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 10 x (1 minute Zone 4/2 minutes Zone 1) 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CSP11.FIT"
+    },
+    "CSP12": {
+      "name": "Cycling Speed Play 12",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 60,
+      "zones": "Zone 1-4",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 8 x (2 minutes Zone 4/2 minutes Zone 1) 13 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CSP12.FIT"
+    },
+    "CSP13": {
+      "name": "Cycling Speed Play 13",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 51,
+      "zones": "Zone 1-4",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 9 x (2 minutes Zone 4/2 minutes Zone 1) 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CSP13.FIT"
+    },
+    "CSP14": {
+      "name": "Cycling Speed Play 14",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 61,
+      "zones": "Zone 1-4",
+      "description": "5 minutes Zone 1, 5 minutes Zone 2, 12 x (1 minute Zone 4/2 minutes Zone 1) 10 minutes Zone 2, 5 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CSP14.FIT"
+    },
+    "CSP15": {
+      "name": "Cycling Speed Play 15",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 79,
+      "zones": "Zone 1-4",
+      "description": "10 minutes Zone 1, 15 minutes Zone 2, 6 x (2 minute Zone 4/2 minutes Zone 1) 15 minutes Zone 2, 15 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CSP15.FIT"
+    },
+    "CSP16": {
+      "name": "Cycling Speed Play 16",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 87,
+      "zones": "Zone 1-4",
+      "description": "10 minutes Zone 1, 15 minutes Zone 2, 8 x (2 minute Zone 4/2 minutes Zone 1) 15 minutes Zone 2, 15 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CSP16.FIT"
+    },
+    "CSP17": {
+      "name": "Cycling Speed Play 17",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 79,
+      "zones": "Zone 1-4",
+      "description": "10 minutes Zone 1, 15 minutes Zone 2, 8 x (1 minute Zone 4/2 minutes Zone 1) 15 minutes Zone 2, 15 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CSP17.FIT"
+    },
+    "CSP18": {
+      "name": "Cycling Speed Play 18",
+      "sport": "bike",
+      "intensity": "moderate",
+      "duration_minutes": 90,
+      "zones": "Zone 1-4",
+      "description": "21 minutes Zone 1, 15 minutes Zone 2, 8 x (1 minute Zone 4/2 minutes Zone 1) 15 minutes Zone 2, 15 minutes Zone 1",
+      "fit_file_url": "https://www.8020endurance.com/wp-content/library/bike/CSP18.FIT"
+    },
+    "SRe1": {
+      "name": "Swim Recovery 1",
+      "sport": "swim",
+      "intensity": "low",
+      "duration_minutes": null,
+      "zones": "Zone 1-1",
+      "description": "1500 Zone 1"
+    },
+    "SRe2": {
+      "name": "Swim Recovery 2",
+      "sport": "swim",
+      "intensity": "low",
+      "duration_minutes": null,
+      "zones": "Zone 1-1",
+      "description": "1600 Zone 1"
+    },
+    "SRe3": {
+      "name": "Swim Recovery 3",
+      "sport": "swim",
+      "intensity": "low",
+      "duration_minutes": null,
+      "zones": "Zone 1-1",
+      "description": "1750 Zone 1"
+    },
+    "SRe4": {
+      "name": "Swim Recovery 4",
+      "sport": "swim",
+      "intensity": "low",
+      "duration_minutes": null,
+      "zones": "Zone 1-1",
+      "description": "2000 Zone 1"
+    },
+    "SRe5": {
+      "name": "Swim Recovery 5",
+      "sport": "swim",
+      "intensity": "low",
+      "duration_minutes": null,
+      "zones": "Zone 1-1",
+      "description": "2250 Zone 1"
+    },
+    "SRe6": {
+      "name": "Swim Recovery 6",
+      "sport": "swim",
+      "intensity": "low",
+      "duration_minutes": null,
+      "zones": "Zone 1-1",
+      "description": "2500 Zone 1"
+    },
+    "SRe7": {
+      "name": "Swim Recovery 7",
+      "sport": "swim",
+      "intensity": "low",
+      "duration_minutes": null,
+      "zones": "Zone 1-1",
+      "description": "2750 Zone 1"
+    },
+    "SRe8": {
+      "name": "Swim Recovery 8",
+      "sport": "swim",
+      "intensity": "low",
+      "duration_minutes": null,
+      "zones": "Zone 1-1",
+      "description": "3000 Zone 1"
+    },
+    "SRe9": {
+      "name": "Swim Recovery 9",
+      "sport": "swim",
+      "intensity": "low",
+      "duration_minutes": null,
+      "zones": "Zone 1-1",
+      "description": "1000 Zone 1"
+    },
+    "SF6": {
+      "name": "Swim Foundation 6",
+      "sport": "swim",
+      "intensity": "low",
+      "duration_minutes": null,
+      "zones": "Zone 1-2",
+      "description": "300 Zone 1, 1900 Zone 2, 300 Zone 1"
+    },
+    "SF7": {
+      "name": "Swim Foundation 7",
+      "sport": "swim",
+      "intensity": "low",
+      "duration_minutes": null,
+      "zones": "Zone 1-2",
+      "description": "250 Zone 1, 2250 Zone 2, 250 Zone 1"
+    },
+    "SF8": {
+      "name": "Swim Foundation 8",
+      "sport": "swim",
+      "intensity": "low",
+      "duration_minutes": null,
+      "zones": "Zone 1-2",
+      "description": "250 Zone 1, 2500 Zone 2, 250 Zone 1"
+    },
+    "SAe4": {
+      "name": "Swim Aerobic 4",
+      "sport": "swim",
+      "intensity": "low",
+      "duration_minutes": null,
+      "zones": "Zone 1-2",
+      "description": "250 Zone 1, 3 x (1000 Zone 2, 60\" rest) 250 Zone 1"
+    },
+    "SAe6": {
+      "name": "Swim Aerobic 6",
+      "sport": "swim",
+      "intensity": "low",
+      "duration_minutes": null,
+      "zones": "Zone 1-2",
+      "description": "250 Zone 1, 4 x (1000 Zone 2, 60\" rest) 250 Zone 1"
+    },
+    "SAe7": {
+      "name": "Swim Aerobic 7",
+      "sport": "swim",
+      "intensity": "low",
+      "duration_minutes": null,
+      "zones": "Zone 1-2",
+      "description": "250 Zone 1, 3 x (500 Zone 2, 60\" rest) 250 Zone 1"
+    },
+    "SCI2": {
+      "name": "Swim Cruise Intervals 2",
+      "sport": "swim",
+      "intensity": "moderate",
+      "duration_minutes": null,
+      "zones": "Zone 1-3",
+      "description": "500 Zone 1, 5 x (100 Zone 3/15\" rest) 500 Zone 2, 500 Zone 1"
+    },
+    "SCI3": {
+      "name": "Swim Cruise Intervals 3",
+      "sport": "swim",
+      "intensity": "moderate",
+      "duration_minutes": null,
+      "zones": "Zone 1-3",
+      "description": "500 Zone 1, 500 Zone 2, 5 x (100 Zone 3/15\" rest) 500 Zone 2, 500 Zone 1"
+    },
+    "SCI4": {
+      "name": "Swim Cruise Intervals 4",
+      "sport": "swim",
+      "intensity": "moderate",
+      "duration_minutes": null,
+      "zones": "Zone 1-3",
+      "description": "250 Zone 1, 10 x (100 Zone 3/15\" rest) 250 Zone 1"
+    },
+    "SCI5": {
+      "name": "Swim Cruise Intervals 5",
+      "sport": "swim",
+      "intensity": "moderate",
+      "duration_minutes": null,
+      "zones": "Zone 1-3",
+      "description": "250 Zone 1, 10 x (100 Zone 3/15\" rest) 500 Zone 2, 250 Zone 1"
+    },
+    "SCI6": {
+      "name": "Swim Cruise Intervals 6",
+      "sport": "swim",
+      "intensity": "moderate",
+      "duration_minutes": null,
+      "zones": "Zone 1-3",
+      "description": "250 Zone 1, 500 Zone 2, 10 x (100 Zone 3/15\" rest) 500 Zone 2, 250 Zone 1"
+    },
+    "SCI7": {
+      "name": "Swim Cruise Intervals 7",
+      "sport": "swim",
+      "intensity": "moderate",
+      "duration_minutes": null,
+      "zones": "Zone 1-3",
+      "description": "250 Zone 1, 500 Zone 2, 15 x (100 Zone 3/15\" rest) 500 Zone 2, 250 Zone 1"
+    },
+    "SCI8": {
+      "name": "Swim Cruise Intervals 8",
+      "sport": "swim",
+      "intensity": "moderate",
+      "duration_minutes": null,
+      "zones": "Zone 1-3",
+      "description": "500 Zone 1, 5 x (200 Zone 3/15\" rest) 500 Zone 1"
+    },
+    "SCI9": {
+      "name": "Swim Cruise Intervals 9",
+      "sport": "swim",
+      "intensity": "moderate",
+      "duration_minutes": null,
+      "zones": "Zone 1-3",
+      "description": "500 Zone 1, 7 x (200 Zone 3/15\" rest) 500 Zone 1"
+    },
+    "SCI10": {
+      "name": "Swim Cruise Intervals 10",
+      "sport": "swim",
+      "intensity": "moderate",
+      "duration_minutes": null,
+      "zones": "Zone 1-3",
+      "description": "500 Zone 1, 10 x (200 Zone 3/15\" rest) 500 Zone 1"
+    },
+    "SCI11": {
+      "name": "Swim Cruise Intervals 11",
+      "sport": "swim",
+      "intensity": "moderate",
+      "duration_minutes": null,
+      "zones": "Zone 1-3",
+      "description": "500 Zone 1, 3 x (300 Zone 3/15\" rest) 500 Zone 1"
+    },
+    "SCI12": {
+      "name": "Swim Cruise Intervals 12",
+      "sport": "swim",
+      "intensity": "moderate",
+      "duration_minutes": null,
+      "zones": "Zone 1-3",
+      "description": "500 Zone 1, 5 x (300 Zone 3/15\" rest) 500 Zone 1"
+    },
+    "SCI13": {
+      "name": "Swim Cruise Intervals 13",
+      "sport": "swim",
+      "intensity": "moderate",
+      "duration_minutes": null,
+      "zones": "Zone 1-3",
+      "description": "500 Zone 1, 500 Zone 2, 5 x (300 Zone 3/15\" rest) 500 Zone 2, 500 Zone 1"
+    },
+    "ST2": {
+      "name": "Swim Tempo 2",
+      "sport": "swim",
+      "intensity": "moderate",
+      "duration_minutes": null,
+      "zones": "Zone 1-3",
+      "description": "250 Zone 1, 500 Zone 3, 750 Zone 2, 250 Zone 1"
+    },
+    "ST4": {
+      "name": "Swim Tempo 4",
+      "sport": "swim",
+      "intensity": "moderate",
+      "duration_minutes": null,
+      "zones": "Zone 1-3",
+      "description": "250 Zone 1, 750 Zone 3, 1000 Zone 2, 250 Zone 1"
+    },
+    "ST5": {
+      "name": "Swim Tempo 5",
+      "sport": "swim",
+      "intensity": "moderate",
+      "duration_minutes": null,
+      "zones": "Zone 1-3",
+      "description": "250 Zone 1, 1000 Zone 3, 1000 Zone 2, 250 Zone 1"
+    },
+    "ST6": {
+      "name": "Swim Tempo 6",
+      "sport": "swim",
+      "intensity": "moderate",
+      "duration_minutes": null,
+      "zones": "Zone 1-3",
+      "description": "500 Zone 1, 1000 Zone 3, 1000 Zone 2, 500 Zone 1"
+    },
+    "ST7": {
+      "name": "Swim Tempo 7",
+      "sport": "swim",
+      "intensity": "moderate",
+      "duration_minutes": null,
+      "zones": "Zone 1-3",
+      "description": "500 Zone 1, 1000 Zone 3, 500 Zone 1"
+    },
+    "SMI3": {
+      "name": "Swim Mixed Intervals 3",
+      "sport": "swim",
+      "intensity": "high",
+      "duration_minutes": null,
+      "zones": "Zone 1-4",
+      "description": "250 Zone 1, 10 x (100 Zone 3/15\" rest), 500 Zone 1, 7 x (50 Zone 4/20\" rest) 250 Zone 1"
+    },
+    "SMI4": {
+      "name": "Swim Mixed Intervals 4",
+      "sport": "swim",
+      "intensity": "high",
+      "duration_minutes": null,
+      "zones": "Zone 1-4",
+      "description": "250 Zone 1, 500 Zone 2, 10 x (100 Zone 3/15\" rest), 150 Zone 1, 7 x (50 Zone 4/20\" rest) 500 Zone 2, 250 Zone 1"
+    },
+    "SMI5": {
+      "name": "Swim Mixed Intervals 5",
+      "sport": "swim",
+      "intensity": "high",
+      "duration_minutes": null,
+      "zones": "Zone 1-4",
+      "description": "300 Zone 1, 10 x (100 Zone 3/15\" rest), 300 Zone 1, 10 x (50 Zone 4/20\" rest) 300 Zone 1"
+    },
+    "SMI6": {
+      "name": "Swim Mixed Intervals 6",
+      "sport": "swim",
+      "intensity": "high",
+      "duration_minutes": null,
+      "zones": "Zone 1-5",
+      "description": "500 Zone 1, 5 x (200 Zone 3/15\" rest) 250 Zone 1, 10 x (25 Zone 5/10\" rest) 500 Zone 1"
+    },
+    "SMI7": {
+      "name": "Swim Mixed Intervals 7",
+      "sport": "swim",
+      "intensity": "high",
+      "duration_minutes": null,
+      "zones": "Zone 1-5",
+      "description": "500 Zone 1, 5 x (200 Zone 3/15\" rest) 250 Zone 1, 10 x (25 Zone 5/10\" rest) 500 Zone 2, 500 Zone 1"
+    },
+    "SMI8": {
+      "name": "Swim Mixed Intervals 8",
+      "sport": "swim",
+      "intensity": "high",
+      "duration_minutes": null,
+      "zones": "Zone 1-4",
+      "description": "500 Zone 2, 3 x (100 Zone 3/15\" rest), 500 Zone 1, 6 x (50 Zone 4/20\" rest) 300 Zone 1"
+    },
+    "SSI2": {
+      "name": "Swim Speed Intervals 2",
+      "sport": "swim",
+      "intensity": "high",
+      "duration_minutes": null,
+      "zones": "Zone 1-5",
+      "description": "250 Zone 1, 500 Zone 2, 12 x (25 Zone 5/10\" rest) 1000 Zone 2, 250 Zone 1"
+    },
+    "SSP2": {
+      "name": "Swim Speed Play 2",
+      "sport": "swim",
+      "intensity": "moderate",
+      "duration_minutes": null,
+      "zones": "Zone 1-4",
+      "description": "250 Zone 1, 500 Zone 2, 7 x (50 Zone 4/20\" rest) 500 Zone 2, 500 Zone 1"
+    },
+    "SSP3": {
+      "name": "Swim Speed Play 3",
+      "sport": "swim",
+      "intensity": "moderate",
+      "duration_minutes": null,
+      "zones": "Zone 1-4",
+      "description": "500 Zone 1, 500 Zone 2, 10 x (50 Zone 4/20\" rest) 500 Zone 2, 500 Zone 1"
+    },
+    "SSP4": {
+      "name": "Swim Speed Play 4",
+      "sport": "swim",
+      "intensity": "moderate",
+      "duration_minutes": null,
+      "zones": "Zone 1-4",
+      "description": "500 Zone 1, 500 Zone 2, 12 x (50 Zone 4/20\" rest) 1000 Zone 2, 500 Zone 1"
+    },
+    "SSP6": {
+      "name": "Swim Speed Play 6",
+      "sport": "swim",
+      "intensity": "moderate",
+      "duration_minutes": null,
+      "zones": "Zone 1-4",
+      "description": "250 Zone 1, 500 Zone 2, 15 x (50 Zone 4/20\" rest) 250 Zone 1"
+    },
+    "SSP7": {
+      "name": "Swim Speed Play 7",
+      "sport": "swim",
+      "intensity": "moderate",
+      "duration_minutes": null,
+      "zones": "Zone 1-4",
+      "description": "250 Zone 1, 200 Zone 2, 10 x (50 Zone 4/20\" rest) 250 Zone 1"
+    }
   }
 }
