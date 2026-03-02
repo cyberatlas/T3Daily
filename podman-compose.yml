@@ -1,0 +1,20 @@
+version: "3.8"
+
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Containerfile
+    container_name: t3daily
+    restart: unless-stopped
+    ports:
+      - "127.0.0.1:8000:8000"
+    env_file:
+      - .env
+    volumes:
+      - ./data/db:/app/data/db
+      - ./data/garmin_tokens:/app/data/garmin_tokens
+      - ./data/plan:/app/data/plan:ro
+    environment:
+      - DATABASE_URL=sqlite:///data/db/t3daily.db
+      - GARMIN_TOKEN_DIR=data/garmin_tokens

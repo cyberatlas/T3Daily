@@ -344,22 +344,23 @@ Per activity (cycling / running / walking):
 - [x] Create generic plan template format with JSON + CSV support (done — see `data/plan/templates/`)
 - [x] Extract all 97 workout codes from plan into library skeleton (done — see `data/plan/8020_workout_library.json`)
 - [x] Populate `8020_workout_library.json` descriptions from 8020endurance.com (479 workouts: 190 run, 218 bike, 71 swim — with .FIT file URLs for run/bike)
-- [ ] Enable TrainerRoad iCal calendar feed (Settings → Calendar)
-- [ ] Get Intervals.icu API key (Settings → API)
-- [ ] Have Garmin Connect username + password ready
-- [ ] Install Podman + podman-compose on laptop
+- [x] Enable TrainerRoad iCal calendar feed (Settings → Calendar)
+- [x] Get Intervals.icu API key (Settings → API)
+- [x] Have Garmin Connect username + password ready
+- [x] Install Podman + podman-compose on laptop
 - [x] Set up Python venv for local development (`pyenv activate T3Daily`)
-- [ ] Install Tailscale on Pi and Android phone
+- [ ] Install Tailscale on Pi and Android phone (deferred — not needed until Pi deployment)
 
 ### Phase 1 — Data Pipeline
-- FastAPI skeleton + SQLite setup with Alembic migrations
-- Settings table with plan start date, location, sleep target
-- Garmin sync: sleep, HRV, Body Battery, Training Readiness, Training Status, Endurance Score
-- Intervals.icu sync: CTL/ATL/TSB/Form, VO2 max, wellness
-- APScheduler: syncs every morning at 6am + on-demand endpoint
-- `/status` endpoint to verify all sources are returning data
-- `/sync` manual trigger endpoint for debugging
-- **Validate Garmin auth early** — this is the riskiest integration
+- [x] FastAPI skeleton + SQLite setup with Alembic migrations
+- [x] Settings table with plan start date, location, sleep target
+- [x] Garmin sync: sleep, HRV, Body Battery, Training Readiness, Training Status, Endurance Score
+- [x] Intervals.icu sync: CTL/ATL/TSB/Form, VO2 max, wellness
+- [x] APScheduler: syncs every morning at 5am + on-demand endpoint
+- [x] `/status` endpoint to verify all sources are returning data
+- [x] `/sync` manual trigger endpoint for debugging
+- [x] Containerfile + podman-compose.yml
+- [ ] **Validate Garmin auth early** — this is the riskiest integration (code ready, needs live test with credentials)
 
 ### Phase 2 — Workout Sources
 - Plan loader: JSON + CSV parser for training plans and workout libraries
